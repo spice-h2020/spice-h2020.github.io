@@ -1,0 +1,38 @@
+---
+layout: default
+permalink: path
+---
+<main>
+      <!-- Slider Area Start-->
+      <div class="services-area">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-8 posts-list">
+
+            <!-- Section-tittle -->
+            <div class="row d-flex justify-content-center">
+                <div class="col-lg-8">
+                    <div class="section-tittle text-center mb-80">
+                        <h2>{{page.title}}</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<div class="containter">
+  <div class="row">
+    <div class="col-lg-8 posts-list">
+      <ul class="blog-info-link mt-3 mb-4">
+        <li><i class="fa fa-user"></i> {{ page.author }}</li>
+        <li><i class="fa fa-calendar"></i>{{ page.date | date_to_string }}</li>
+     </ul>
+  <p class=excert>{{ content }}</p> </div>
+  <div class="col-lg-4">
+    {% include sidebar.html %}
+  </div>
+
+</div>
+</div>
+
+</main>
