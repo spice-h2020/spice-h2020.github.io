@@ -1,0 +1,21 @@
+collections:
+    events:
+    press:
+    publications:
+    deliverables:
+
+defaults:
+    - scope:
+        path: ""
+        type: "posts"
+      values:
+        layout: "post"
+    - scope:
+        path: ""
+      values:
+        layout: "default"
+
+permalink: /:categories/:year/:month/:day/:title/
+
+#baseurl: /
+url: https://spice-h2020.eu/
