@@ -18,4 +18,23 @@
 #permalink: /:categories/:year/:month/:day/:title/
 
 #baseurl: /
-url: https://br0ast.github.io/testjekyll/
+#url: https://br0ast.github.io/testjekyll/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+  - jekyll-redirect-from
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
