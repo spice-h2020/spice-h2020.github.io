@@ -1,24 +1,26 @@
-#collections:
-#    events:
-#    press:
-#    publications:
-#   deliverables:
-#
-#defaults:
-#    - scope:
-#        path: ""
-#        type: "posts"
-#      values:
-#        layout: "post"
-#    - scope:
-#        path: ""
-#      values:
-#        layout: "default"
+collections:
+  events:
+  press:
+  publications:
+  deliverables:
 
-#permalink: /:categories/:year/:month/:day/:title/
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
 
-#baseurl: /
+permalink: /:categories/:year/:month/:day/:title/
+
+#baseurl: https://br0ast.github.io/retestjekyll/
 url: https://spice-h2020.eu/
+
+theme: jekyll-theme-minimal
 
 # Plugins (previously gems:)
 plugins:
