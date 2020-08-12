@@ -1,8 +1,8 @@
-#collections:
-#    events:
-#    press:
-#    publications:
-#   deliverables:
+collections:
+    events:
+    press:
+    publications:
+   deliverables:
 #
 #defaults:
 #    - scope:
@@ -15,7 +15,7 @@
 #      values:
 #        layout: "default"
 
-#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:categories/:year/:month/:day/:title/
 
 #baseurl: /
 url: https://spice-h2020.eu/
