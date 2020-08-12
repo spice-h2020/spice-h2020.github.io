@@ -1,0 +1,41 @@
+---
+title: SPICE - Publications
+permalink: /publications/
+layout: default
+---
+
+    <main>
+      <!-- Slider Area Start-->
+      <div class="services-area">
+          <div class="container">
+              <!-- Section-tittle -->
+              <div class="row d-flex justify-content-center">
+                  <div class="col-lg-8">
+                      <div class="section-tittle text-center mb-80">
+                          <span>Works about the project</span>
+                          <h2>Publications</h2>
+                      </div>
+                  </div>
+              </div>
+              <div class="col-12">
+                  <h2 class="contact-title">2020</h2>
+                  {% for pub in site.publications %}
+                  {%if pub.year == 2020 %}
+                  <p>{{ pub.content | markdownify }}</p></br>
+                  {% endif %}
+                  {%endfor %}
+              </div>
+          </div>
+      </div>
+      <!-- Slider Area End-->
+
+      <!-- Bruni, Luis Emilio, Enrico Daga, Rossana Damiano, Lily Diaz, Tsvi Kuflik, Antonio Lieto, Aldo Gangemi, et al. ‘Towards Advanced Interfaces for Citizen Curation’. In Proceedings of AVI2CH 2020: Workshop on Advanced Visual Interfaces and Interactions in Cultural Heritage. Aachen, Germany: CEUR-WS, 2020.-->
+
+        <!-- Tips Triks End -->
+         <!-- have-project Start-->
+
+         <!-- have-project Start-->
+         <!-- have-project End -->
+        <!-- have-project End -->
+
+    </main>

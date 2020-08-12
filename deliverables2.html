@@ -1,0 +1,42 @@
+---
+title: SPICE - Deliverables
+permalink: /deliverables/
+layout: default
+---
+
+
+    <main>
+      <!-- Slider Area Start-->
+      <div class="services-area">
+          <div class="container">
+              <!-- Section-tittle -->
+              <div class="row d-flex justify-content-center">
+                  <div class="col-lg-8">
+                      <div class="section-tittle text-center mb-80">
+                          <span>Materials produced by the project</span>
+                          <h2>Deliverables</h2>
+                      </div>
+                  </div>
+              </div>
+              <div class="col-12">
+                  <h2 class="contact-title">2020</h2>
+                  {% for deliverable in site.deliverables %}
+                  {%if deliverable.year == 2020 %}
+                  <p><a href="{{ deliverable.delivpath }}">{{ deliverable.delivcode}} - {{deliverable.title }}</a></p></br>
+                  {% endif %}
+                  {% endfor %}
+              </div>
+          </div>
+      </div>
+      <!-- Slider Area End-->
+
+      <!-- Bruni, Luis Emilio, Enrico Daga, Rossana Damiano, Lily Diaz, Tsvi Kuflik, Antonio Lieto, Aldo Gangemi, et al. ‘Towards Advanced Interfaces for Citizen Curation’. In Proceedings of AVI2CH 2020: Workshop on Advanced Visual Interfaces and Interactions in Cultural Heritage. Aachen, Germany: CEUR-WS, 2020.-->
+
+        <!-- Tips Triks End -->
+         <!-- have-project Start-->
+
+         <!-- have-project Start-->
+         <!-- have-project End -->
+        <!-- have-project End -->
+
+    </main>
