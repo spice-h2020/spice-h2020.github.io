@@ -1,0 +1,69 @@
+---
+title: SPICE - Press and Media
+permalink: /press/
+layout: default
+---
+
+    <main>
+
+      <!-- Slider Area Start-->
+      <div class="services-area">
+        <div class="container">
+
+            <!-- Section-tittle -->
+            <div class="row d-flex justify-content-center">
+                <div class="col-lg-8">
+                    <div class="section-tittle text-center mb-80">
+                        <span>Who talks about us</span>
+                        <h2>Press and Media</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Slider Area End-->
+
+
+    <!--================Blog Area =================-->
+    <section class="blog_area single-post-area section-padding">
+       <div class="container">
+          <div class="row">
+             <div class="col-lg-8 posts-list">
+               {% for event in site.press %}
+                <div class="single-post">
+                   <!-- <div class="feature-img">
+                      <img class="img-fluid" src="assets/img/blog/single_blog_1.png" alt="">
+                   </div> -->
+                   <div class="blog_details">
+                      <h2>{{ event.title }}
+                      </h2>
+                      <ul class="blog-info-link mt-3 mb-4">
+                         <li><i class="fa fa-user"></i> {{ event.author }}</li>
+                         <li><i class="fa fa-calendar"></i>{{ event.date | date_to_string }}</li>
+                      </ul>
+                      <p class="excert">
+                        {{ event.content | markdownify }}
+                      </p>
+                      {% if event.extlink %}
+                      <div class="do-btn">
+                          <a target="_blank" href="{{ event.extlink }}"><i class="ti-arrow-right"></i> Read more</a>
+                      </div>
+                      {% endif %}
+                   </div>
+                </div>
+                {% endfor %}
+
+             </div>
+             <div class="col-lg-4">
+                {%include sidebar.html %}
+             </div>
+          </div>
+       </div>
+    </section>
+    <!--================ Blog Area end =================-->
+
+
+         <!-- have-project Start-->
+        <!-- have-project End -->
+
+    </main>
