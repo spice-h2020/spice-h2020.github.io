@@ -5,7 +5,7 @@ title: Meet SPICE Work Packages{% raw %}:{% endraw %} SPICE Linked Data Hub
 ---
 
 
-- It&#39;s time to know the objectives and relations of [SPICE Work Packages](https://spice-h2020.eu/project/) and this time is for SPICE Work Package 4. SPICE **WP4 is developing the Linked Data infrastructure** to connect cultural objects, collections, and citizen contributions.
+It&#39;s time to know the objectives and relations of [SPICE Work Packages](https://spice-h2020.eu/project/) and this time is for SPICE Work Package 4. SPICE **WP4 is developing the Linked Data infrastructure** to connect cultural objects, collections, and citizen contributions.
 
 Being the backbone for interoperability and knowledge exchange within the project, WP4 aims at providing a data exchange layer and researching and developing a novel type of social media platform that can **support museums in sharing their digital collections**. In addition, such a platform will support developers of applications for citizen engagement in requesting and negotiating access to digital resources and exploiting a stack of intelligent services for content discovery, analysis, and tracing.
 
