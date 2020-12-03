@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Laseca, Guillermo
-title: Meet SPICE Work Packages{% raw %}:{% endraw %} SPICE Linked Data Hub
+title: Meet SPICE Work Packages: SPICE Linked Data Hub
 ---
 
 
@@ -13,6 +13,6 @@ We aim at building a development infrastructure to allow citizens&#39; opinions,
 
 WP4 is currently developing the **SPICE Linked Data Hub** , the central entry point to the SPICE Linked Data Network. At the same time, the WP4 team is actively engaging with museum partners and collecting requirements for managing copyrights and usage policies, and for linking digital collections of the museums within the SPICE data network. WP4 works in close relation with WP6 (Integrating Systems for Citizen Curation) for what concerns knowledge representation and reasoning aspects and for supporting the task of scripting citizen curation.
 
-![](https://github.com/spice-h2020/spice-h2020.github.io/blob/master/assets/img/team/ed.jpg)&quot;Museums struggle at reaching their audience through mass social media, as this implies sharing content that is often protected by copyright into across platforms where the control over the assets is easily lost. Besides, they need support in collecting visitor responses into their digital archives in a way that is meaningful but protecting citizen&#39;s privacy. Our vision is to equip memory institutions and their stakeholders with a digital space that is at the same time communal, ubiquitous, and safe.&quot;
+![.](/assets/screenshot.jpg)&quot;Museums struggle at reaching their audience through mass social media, as this implies sharing content that is often protected by copyright into across platforms where the control over the assets is easily lost. Besides, they need support in collecting visitor responses into their digital archives in a way that is meaningful but protecting citizen&#39;s privacy. Our vision is to equip memory institutions and their stakeholders with a digital space that is at the same time communal, ubiquitous, and safe.&quot;
 
 Enrico Daga, [The Open University](http://www.open.ac.uk/)
