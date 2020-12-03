@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Laseca, Guillermo
-title: Meet SPICE Work Packages: SPICE Linked Data Hub
+title: Meet SPICE Work Packages &#58; SPICE Linked Data Hub
 ---
 
 
