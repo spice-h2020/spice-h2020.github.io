@@ -42,3 +42,8 @@
     background: #fda016;
 	color: #000;
 }
+
+.peoplePostImageInline {
+    float:left;
+    margin: 1em;
+}
