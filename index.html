@@ -57,9 +57,10 @@ title: SPICE - Home
     <div class="container">
         <div class="row d-flex justify-content-center">
             <div class="col-lg-8">
-                <div class="embed-responsive embed-responsive-16by9">
-                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/uIO1QiOecgI" allowfullscreen></iframe>
-                  </div>            </div>
+                  <div class="youtube-video-place embed-responsive embed-responsive-4by3 " data-yt-url="https://www.youtube.com/embed/uIO1QiOecgI?rel=0&showinfo=0&autoplay=1">
+                    <img src="{{ 'assets/img/elements/thumb.jpg' | relative_url }}" async class="play-youtube-video">
+                    </div>           
+            </div>
         </div>
     </div>
     <!-- Slider Area End-->
@@ -206,6 +207,17 @@ title: SPICE - Home
 </main>
 
 <!-- JS here -->
-
+<script>
+    var video_wrapper = $('.youtube-video-place');
+//  Check to see if youtube wrapper exists
+if(video_wrapper.length){
+// If user clicks on the video wrapper load the video.
+$('.play-youtube-video').on('click', function(){
+/* Dynamically inject the iframe on demand of the user.
+ Pull the youtube url from the data attribute on the wrapper element. */
+video_wrapper.html('<iframe allowfullscreen frameborder="0" class="embed-responsive-item" src="' + video_wrapper.data('yt-url') + '"></iframe>');
+});
+}
+</script>
 </body>
 </html>
