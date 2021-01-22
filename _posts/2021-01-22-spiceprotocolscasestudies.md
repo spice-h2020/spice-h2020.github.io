@@ -25,13 +25,13 @@ An example of the contributions made by participants during the mini-conference 
 
 The figure below demonstrates visitors&#39; user-journey developed and iterated by the participants:
 
-![]({{ site.url }}assets/img/post/casestudyprotocols2.png)
+![]({{ site.url }}assets/img/post/casestudyprotocols2.png){:class="img-responsive"}
 
 ## Experience in Interface design for the museums
 
 In another workshop about interface design for the museums the objective was to  **agree a set of interface components that would enable an initial prototype**  to be developed within a six-month period. For each interface in turn each participant had to add their ratings individually, then discuss and add any group comments. In this one-hour workshop we brought everyone together to consider [interfaces for a visit](https://padlet.com/esteem/spice_mc1_w4_p1), [interfaces for interpretations](https://padlet.com/esteem/spice_mc1_w4_p2), and [interfaces for reflection and scripting](https://padlet.com/esteem/spice_mc1_w4_p3).
 
-![]({{ site.url }}assets/img/post/casestudyprotocols1.png)
+![]({{ site.url }}assets/img/post/casestudyprotocols1.png){:class="img-responsive"}
 
 Thanks to the interesting input from the participants in the four workshops the  **main objective ** of the mini-conference was achieved:  **to create and test case studies for an exemplary combination**  of methods that can be implemented in the interpretation-reflection spiral.
 
