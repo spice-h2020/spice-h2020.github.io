@@ -8,10 +8,10 @@ In SPICE we are endeavouring to create **new tools and methods which help Europe
 
 With these objectives in mind on October 29th 2020 SPICE Work Package 7 organized a [mini-conference](https://spice-h2020.eu/2020/10/29/spiceminiconference.html) **with the aim of specifying the situation of the five case studies**  that are going to be carried out in SPICE ([Irish Museum of Modern Art](https://imma.ie/), [Design Museum Helsinki](https://www.designmuseum.fi/en/), [Fondazione Torino Musei (GAM)](https://www.fondazionetorinomusei.it/it), [Hecht Museum](https://mushecht.haifa.ac.il/index.php?lang=en), [National Museum of Natural Sciences](https://www.mncn.csic.es/en)). There day-long mini-conference consisted of four workshops examining interpretation of cultural heritage as well as co-design methods:
 
-- Citizen interpretation methods using artefact analysis
-- Persona development along with users, communities and stakeholders 
-- Charting activities in context through UX and service maps 
-- User interface design possibilities.
+* Citizen interpretation methods using artefact analysis
+* Persona development along with users, communities and stakeholders 
+* Charting activities in context through UX and service maps 
+* User interface design possibilities.
 
 ## Experience in UX Map of curation activity
 
