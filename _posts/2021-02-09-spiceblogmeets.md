@@ -15,5 +15,5 @@ Through an interdisciplinary approach,  **we are undertaking a codesign process 
 Based on this selection, development and evaluation,  **WP2 designs workshop activities, which can serve as primitives for scripts for citizen curation activities to be later customized to the case-studies**. In this regard, WP2 has a close connection to the work done in WP7 (Co-design and evaluation of citizen curation activities), in both the co-design process, as well as establishing the relationship between the theoretical framework and the case-studies.
 
 
-
+![]({{ site.url }}assets/img/team/luis.jpg){:.peoplePostImageInline}
 &quot;_Currently, we are evaluating an approach that combines Artifact Analysis, Storytelling and Narrative Identity. After conducting an exploratory workshop, we are trying to establish to which extent it could be possible to surmise elements of a person&#39;s narrative identity by fictional stories produced by this person, about artifacts which they are experiencing_.&quot; Luis Emilio Bruni, Aalborg University Copenhagen
