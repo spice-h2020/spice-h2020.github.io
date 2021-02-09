@@ -17,4 +17,5 @@ Based on this selection, development and evaluation,  **WP2 designs workshop act
 
 ![]({{ site.url }}assets/img/team/luis.jpg){:.peoplePostImageInline}
 &quot;Currently, we are evaluating an approach that combines Artifact Analysis, Storytelling and Narrative Identity. After conducting an exploratory workshop, we are trying to establish to which extent it could be possible to surmise elements of a person&#39;s narrative identity by fictional stories produced by this person, about artifacts which they are experiencing.&quot; 
+
 Luis Emilio Bruni, [Aalborg University Copenhagen](https://www.en.aau.dk/)
