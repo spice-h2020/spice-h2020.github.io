@@ -23,4 +23,4 @@ Whether you&#39;re a graduate student writing a thesis, or a principal investiga
 
 This article explores the potential that community-led digital engagement with heritage holds for stimulating active citizenship through taking responsibility for shared cultural heritage and for fostering long-lasting relationships between local community heritage groups and national museums. Read the article here: [Strokes of serendipity: Community co-curation and engagement with digital heritage - Daniel H Mutibwa, Alison Hess, Tom Jackson, 2020](https://journals.sagepub.com/doi/abs/10.1177/1354856518772030)
 
-[SUBSCRIBE TO SPICE BY CLICKING NEWSLETTER HERE!](https://mailchi.mp/527074f97a05/newsspice)
+<a href="https://mailchi.mp/527074f97a05/newsspice" rel="SUBSCRIBE TO SPICE BY CLICKING NEWSLETTER HERE!">![Foo]({{ site.url }}assets/img/team/subscribe.png)</a>
