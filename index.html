@@ -54,6 +54,34 @@ title: SPICE - Home
             </div>
             </div>
     </div>
+    <section class="blog_area single-post-area section-padding">
+        <div class="container">
+            <div class="row d-flex justify-content-center">
+                <div class="col-lg-8">
+                    <div class="section-tittle text-center">
+                        <h2>Latest News​</h2>
+                    </div>
+                </div>
+            </div>
+           <div class="row">
+              <div class="col-lg-8 posts-list">
+                {% for post in site.posts limit:3 %}
+                 <div class="single-post">
+                   
+                    <div class="blog_details">
+                       <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                       </h2>
+                       <ul class="blog-info-link mt-3 mb-4">
+                          <li><i class="fa fa-user"></i> {{ post.author }}</li>
+                          <li><i class="fa fa-calendar"></i>{{ post.date | date_to_string }}</li>
+                       </ul>
+                       <p class="excert">
+                          {{ post.excerpt }}
+                       </p>
+ 
+                    </div>
+                 </div>
+                 {% endfor %}
     <div class="container">
         <div class="row d-flex justify-content-center">
             <div class="col-lg-8">
