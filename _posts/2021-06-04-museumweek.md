@@ -18,7 +18,7 @@ Do you want to know them? Keep reading!
 
 IMMA was established in 1990 as Ireland&#39;s first national institution for the presentation and collection of modern and contemporary art. IMMA is housed in the [Royal Hospital Kilmainham ](https://imma.ie/about/rhk-building-and-site/)(RHK), the finest 17th-century building in Ireland, founded in 1684 as a home for retired soldiers and continued in that use for almost 250 years. RHK is the oldest classical building in Ireland and was based on Les Invalides in Paris, with a formal facade and a large, elegant courtyard.
 
-IMMA is home to the National Collection of Modern and Contemporary Art, started in 1990 and now numbering over 3,500 artworks by Irish and international artists. This national resource is made available through exhibitions at IMMA and other venues nationally and internationally, **engagement and learning programmes and digital resources.****  **
+IMMA is home to the National Collection of Modern and Contemporary Art, started in 1990 and now numbering over 3,500 artworks by Irish and international artists. This national resource is made available through exhibitions at IMMA and other venues nationally and internationally, **engagement and learning programmes and digital resources.**
 
 **The museum works with many different community groups in a variety of ways** , from guided tours to dedicated workshops, also leads the way in dementia-inclusive arts programming.
 
