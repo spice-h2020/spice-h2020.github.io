@@ -19,6 +19,12 @@ layout: default
                   </div>
               </div>
               <div class="col-12">
+                  <h2 class="contact-title">2021</h2>
+                  {% for deliverable in site.deliverables %}
+                  {%if deliverable.year == 2021 %}
+                  <p><a href="{{ deliverable.delivpath }}">{{ deliverable.delivcode}} - {{deliverable.title }}</a></p></br>
+                  {% endif %}
+                  {% endfor %}
                   <h2 class="contact-title">2020</h2>
                   {% for deliverable in site.deliverables %}
                   {%if deliverable.year == 2020 %}
