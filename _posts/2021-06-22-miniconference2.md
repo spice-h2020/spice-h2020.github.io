@@ -8,7 +8,7 @@ On March 23, the **second [SPICE](https://spice-h2020.eu/) mini-conference**  to
 
 Innovative methodologies such as artifact analysis, visualization techniques, collecting and narrative methods, cultural semiotics and duoethnography were discussed during the mini-conference, In the same way, the advances of the different case studies were presented with the aim os exploring how to best combine interpretation and reflection methods, related activities and mock-ups in a &#39;user-journey loop&#39;. The interpretation-reflection loop illustrates the iterative process in SPICE for generating unique citizen curation activities by combining interpretation and reflection methods.
 
-![]({{ site.url }}assets/img/post/interp.png){:class="img-fluid"}
+![]({{ site.url }}assets/img/post/interp.png){:class="img-fluid"}<br>
 *Interpretation-reflection loop. SPICE*
 
 With this objective in mind, two main activities were developed during the mini conference eventually assisted WP7 in  **monitoring the development and progress of the case studies and situating these in the updated sociotechnical roadmap**.
