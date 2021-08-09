@@ -38,6 +38,7 @@ layout: default
                       <ul class="blog-info-link mt-3 mb-4">
                          <li><i class="fa fa-user"></i> {{ post.author }}</li>
                          <li><i class="fa fa-calendar"></i>{{ post.date | date_to_string }}</li>
+                         <li><i class="fa fa-hashtag"></i> {{ post.tag }}</li>
                       </ul>
                       <p class="excert">
                          {{ post.excerpt }}

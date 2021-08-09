@@ -9,169 +9,489 @@ title: SPICE - Home
 
     <!-- Slider Area Start-->
     <div class="slider-area ">
-        <div class="slider-active">
-            <!-- <div class="single-slider slider-height d-flex align-items-center" data-background="assets/img/hero/h1_hero.png"> -->
-            <div class="single-slider slider-height d-flex align-items-center">
-                <div class="container">
-                    <div class="row d-flex align-items-center">
-                        <div class="col-lg-7 col-md-9 ">
-                            <div class="hero__caption">
-                                <h1 data-animation="fadeInLeft" data-delay=".4s">Social cohesion, Participation, and <br/>Inclusion through <br/>Cultural <br/>Engagement</h1>
-                                <p>The overall aim of the SPICE project is to develop tools and methods to support Citizen Curation, in which citizens actively engage in curatorial activities in order to learn more about themselves and develop a better understanding of, and empathy for, other communities. </p>
-                                <p>Spice is an EU-H2020 funded project dedicated to citizen curation of cultural heritage.</p>
-                                <!-- Hero-btn -->
-                                <div style="padding-bottom:3%" class="hero__btn" data-animation="fadeInLeft" data-delay=".4s">
-                                    <a href="{{ site.url }}project/" class="btn hero-btn">Read more</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-5">
-                            <div class="hero__img" data-animation="fadeInRight" data-delay="1s">
-                                <div class="embed-responsive embed-responsive-16by9">
-                                    <iframe
-                      width="560"
-                      height="315"
-                      src="https://www.youtube.com/embed/uIO1QiOecgI"
-                      srcdoc="<style>*{padding:0;margin:0;overflow:hidden}html,body{height:100%}img,span{position:absolute;width:100%;top:0;bottom:0;margin:auto}span{height:1.5em;text-align:center;font:48px/1.5 sans-serif;color:white;text-shadow:0 0 0.5em black}</style><a href=https://www.youtube.com/embed/uIO1QiOecgI><img src=https://spice-h2020.eu/assets/img/elements/thumb.jpg alt='SPICE - Social cohesion, Participation and Inclusion through Cultural Engagement: An Introduction'><span>▶</span></a>"
-                      frameborder="0"
-                      allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-                      allowfullscreen
-                      title="SPICE - Social cohesion, Participation and Inclusion through Cultural Engagement: An Introduction"
-                    ></iframe> </div>                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="single-slider slider-height d-flex align-items-center">
-                <div class="container">
-                    <div class="row d-flex align-items-center">
-                        <div class="col-lg-7 col-md-9 ">
-                            <div class="hero__caption">
-                                <h1 data-animation="fadeInLeft" data-delay=".4s">Social cohesion, Participation, and <br/>Inclusion through <br/>Cultural <br/>Engagement</h1>
-                                <!-- Hero-btn -->
-                                <div style="padding-bottom:3%" class="hero__btn" data-animation="fadeInLeft" data-delay=".4s">
-                                    <a href="project/" class="btn hero-btn">Read more</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-5">
-                            <div class="hero__img d-none d-lg-block" data-animation="fadeInRight" data-delay="1s">
-                                <img src="{{ 'assets/img/hero/home_spice.png' | relative_url }}" alt="Banner image, a men walking stairs and its reflection upside down">
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            </div>
+      <video autoplay muted loop id="myVideo">
+        <source src="{{'assets/video.mp4' | relative_url }}">
+      </video>
+
     </div>
-    <!--  Uncomment when we include latest news again
-    <section class="blog_area single-post-area section-padding">
-        <div class="container">
-            <div class="row d-flex justify-content-center">
-                <div class="col-lg-8">
-                    <div class="section-tittle text-center">
-                        <h2>Latest News​</h2>
-                    </div>
-                </div>
-            </div>
-           <div class="row d-flex justify-content-center">
-              <div class="col-lg-8 posts-list">
-                {% for post in site.posts limit:3 %}
-                 <div class="single-post">
-                   
-                    <div class="blog_details">
-                       <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-                       </h2>
-                       <ul class="blog-info-link mt-3 mb-4">
-                          <li><i class="fa fa-user"></i> {{ post.author }}</li>
-                          <li><i class="fa fa-calendar"></i>{{ post.date | date_to_string }}</li>
-                       </ul>
-                       <p class="excert">
-                          {{ post.excerpt }}
-                       </p>
- 
-                    </div>
-                 </div>
-                 {% endfor %}</div>
-                </div>
-            </div></section> -->
-    <!-- Slider Area End-->
-    <!-- What We do start-->
-    <div class="what-we-do we-padding">
-        <div class="container">
-            <!-- Section-tittle -->
-            <div class="row d-flex justify-content-center">
-                <div class="col-lg-8">
-                    <div class="section-tittle text-center">
-                        <h2>We foster diverse participation in the heritage domain​</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-4 col-md-6">
-                    <div class="single-do text-center mb-30">
-                        <!-- <div class="do-icon">
-                            <span  class="flaticon-tasks"></span>
-                        </div> -->
-                        <div class="do-caption">
-                            <h4>Citizen curation</h4>
-                            <p>Citizens are supported in developing interpretations of cultural objects, working together
-                              to present their collective view of life, and gaining an appreciation of alternative cultural viewpoints.</p>
-                        </div>
-                        <!-- <div class="do-btn">
-                            <a href="#"><i class="ti-arrow-right"></i> get started</a>
-                        </div> -->
-                    </div>
-                </div>
-                 <div class="col-lg-4 col-md-6">
-                    <div class="single-do text-center mb-30">
-                        <!-- <div class="do-icon">
-                            <span  class="flaticon-social-media-marketing"></span>
-                        </div> -->
-                        <div class="do-caption">
-                            <h4>Codesign</h4>
-                            <p>We collaborate with museum professionals and citizens to design methods that can be used to develop, annotate, and share personal interpretations of cultural objects.</p>
-                        </div>
-                        <!-- <div class="do-btn">
-                            <a href="#"><i class="ti-arrow-right"></i> get started</a>
-                        </div> -->
-                    </div>
-                </div>
-                 <div class="col-lg-4 col-md-6">
-                    <div class="single-do text-center mb-30">
-                        <!-- <div class="do-icon">
-                            <span  class="flaticon-project"></span>
-                        </div> -->
-                        <div class="do-caption">
-                            <h4>Social cohesion</h4>
-                            <p>We develop tools and methods to assist citizens in appreciating similarities and differences within and across community groups to build empathy and understanding.</p>
+    <div id="g_back" class="slider-active">
+        <!-- <div class="single-slider slider-height d-flex align-items-center" data-background="assets/img/hero/h1_hero.png"> -->
+        <div class="single-slider slider-height d-flex align-items-center">
+            <div class="container">
+                <div class="row d-flex align-items-center">
+                    <div class="col-lg-7 col-md-9 ">
+                        <div class="hero__caption">
+                            <h1 data-animation="fadeInLeft" data-delay=".4s"><span class="underline--magical">Co-curate our cultural heritage with citizens</span></h1>
+                            <p>SPICE (Social cohesion, Participation, and Inclusion through Cultural Engagement)
+                              is an EU-H2020 funded project dedicated to citizen curation of cultural heritage.
+                              We develop methods and experiences to support citizens in engaging with art, science,
+                              and heritage, so that they can learn more about themselves and develop a better understanding of,
+                              and empathy for, other communities. </p>
+                            <p></p>
+                            <!-- Hero-btn -->
+                            <!-- <div style="padding-bottom:3%" class="hero__btn" data-animation="fadeInLeft" data-delay=".4s">
+                                <a href="{{ site.url }}project/" class="btn hero-btn">Read more</a>
+                            </div> -->
                         </div>
                     </div>
+                    <!-- <div class="col-lg-5">
+                        <div class="hero__img" data-animation="fadeInRight" data-delay="1s">
+                          <img src="{{'assets/img//hero/pic1.png' | relative_url }}" alt="">
+                        </div>
+                    </div> -->
                 </div>
             </div>
         </div>
+
     </div>
-    <!-- What We do End-->
+
+    <!-- Slider Area End-->
+
     <!-- We Create Start -->
     <div class="we-create-area create-padding">
         <div class="container">
             <div class="row d-flex align-items-end">
                 <div class="col-lg-6 col-md-12">
                     <div class="we-create-img">
+                          <!-- HERE NEW PICTURE EXPLAINING THE PROJECT -->
                         <img src="{{'assets/img//hero/methods.png' | relative_url }}" alt="A wall with several windows, creating a chess pattern">
                     </div>
                 </div>
                 <div class="col-lg-6 col-md-12">
                     <div class="we-create-cap">
-                        <h3>Design citizen curation methods</h3>
+                        <h3>We design methods to allow citizen to express their interpretations</h3>
                         <p>We use state-of-the-art technologies to develop tools that allow users to create and semantically annotate their own interpretations. Citizens can use the tools to visualise and reflect on their own opinions and engage with a diverse range of perspectives.</p>
-                        <!-- <a href="#" class="btn">Contact Us</a> -->
+
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    <div class="we-create-area create-padding">
+    <!-- We Create Start -->
+
+
+    <!-- What We do start-->
+    <div class="what-we-do we-padding green">
+        <div class="container">
+            <!-- Section-tittle -->
+            <div class="row d-flex justify-content-center">
+                <div class="col-lg-8">
+                    <div class="section-tittle text-center">
+                        <h2>We foster diverse participation</h2>
+                    </div>
+                </div>
+                <div class="col-lg-8 text-center">
+                  <p>In SPICE we work with five different communities of citizens whose voices are often unheard
+                    when it comes to their interpretation of cultural heritage.
+                    We promote a platform of inclusion in which every voice matters and we design every aspect
+                    of the project taking this goal into consideration, making sure that no one's voice will be unheard.
+                    </p>
+                </div>
+
+            </div>
+            <div class="row d-flex justify-content-center">
+              <div class="col-lg-8">
+                  <div class="section-tittle text-center">
+                      <h3>Read the stories from our communities! </h3>
+                  </div>
+              </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="what-we-do we-padding">
+        <div class="container">
+          <div class="row">
+              <div class="col-lg-4 col-md-6">
+                  <div class="single-do text-center mb-30">
+
+                      <div class="do-caption">
+                         <span>DESIGN MUSEUM HELSINKI</span>
+                          <h4>Finland</h4>
+                          <p>Connect senior citizens and families living far from the museum with the Finnish culture.</p>
+                      </div>
+                      <div class="do-btn">
+                          <a href="#"><i class="ti-arrow-right"></i> read more</a>
+                      </div>
+                  </div>
+              </div>
+               <div class="col-lg-4 col-md-6">
+                  <div class="single-do text-center mb-30">
+                      <!-- <div class="do-icon">
+                          <span  class="flaticon-social-media-marketing"></span>
+                      </div> -->
+                      <div class="do-caption">
+                          <span>IRISH MUSEUM OF MODERN ART</span>
+                          <h4>Ireland</h4>
+                          <p>Allow asylum seekers, children, and others that cannot access the museum phisically, to share their view.</p>
+                      </div>
+                      <div class="do-btn">
+                          <a href="#"><i class="ti-arrow-right"></i> read more</a>
+                      </div>
+                  </div>
+              </div>
+               <div class="col-lg-4 col-md-6">
+                  <div class="single-do text-center mb-30">
+
+                      <div class="do-caption">
+                        <!-- <span>EL PRADO MUSEUM</span> -->
+                          <h4>Spain</h4>
+                          <p>Engage with children, including those from lower socio-economic groups, and support them in appreciating science.</p>
+                      </div>
+                      <div class="do-btn">
+                          <a href="#"><i class="ti-arrow-right"></i> read more</a>
+                      </div>
+                  </div>
+              </div>
+              <div class="col-lg-4 col-md-6">
+                 <div class="single-do text-center mb-30">
+                     <!-- <div class="do-icon">
+                         <span  class="flaticon-project"></span>
+                     </div> -->
+                     <div class="do-caption">
+                       <span>GALLERIA D'ARTE MODERNA</span>
+                         <h4>Italy</h4>
+                         <p>Enable deaf people and other visitors to share their views on art via storytelling and social media platforms.</p>
+                     </div>
+                     <div class="do-btn">
+                         <a href="#"><i class="ti-arrow-right"></i> read more</a>
+                     </div>
+                 </div>
+             </div>
+             <div class="col-lg-4 col-md-6">
+                <div class="single-do text-center mb-30">
+                    <!-- <div class="do-icon">
+                        <span  class="flaticon-project"></span>
+                    </div> -->
+                    <div class="do-caption">
+                      <span>HECHT MUSEUM</span>
+                        <h4>Israel</h4>
+                        <p>Allow members of religious and secular communities to share and appreciate the variety of opinion in their communities.</p>
+                    </div>
+                    <div class="do-btn">
+                        <a href="#"><i class="ti-arrow-right"></i> read more</a>
+                    </div>
+                </div>
+            </div>
+          </div>
+        </div>
+    </div>
+    <!-- What We do End-->
+
+    <!-- partners -->
+    <div class="services-area">
+        <div class="container">
+            <!-- Section-tittle -->
+            <div class="row d-flex justify-content-center">
+                <div class="col-lg-8">
+                    <div class="section-tittle text-center mb-80">
+                        <h2>Our partners and third parties</h2>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="what-we-do we-padding">
+        <div class="container">
+            <!-- Section-tittle -->
+            <!-- <div class="row d-flex justify-content-center">
+                <div class="col-lg-8">
+                    <div class="section-tittle text-center">
+                        <h2>Four museums, seven research centres, three SMEs</h2>
+                    </div>
+                </div>
+            </div> -->
+            <div class="row">
+                <div class="col-lg-4 col-md-6">
+                    <div class="single-do text-center mb-30">
+                        <div class="do-icon">
+                            <!-- <span class="flaticon-tasks"></span> -->
+                            <a href="https://www.unibo.it/en"><img src="assets/img/logo/unibo.png" alt="University of Bologna logo"></a>
+                        </div>
+                        <div class="do-caption">
+                            <h4><a href="https://www.unibo.it/en">[UNIBO] University of Bologna</a></h4>
+                            <p>[Project coordinator]</p>
+                        </div>
+                        <!-- <div class="do-btn">
+                            <a href="#"><i class="ti-arrow-right"></i> get started</a>
+                        </div> -->
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6">
+                    <div class="single-do text-center mb-30">
+                        <div class="do-icon">
+                            <!-- <span class="flaticon-tasks"></span> -->
+                            <a href="https://www.aalto.fi/en"><img src="assets/img/logo/aalto_big.png" alt="Aalto University logo"></a>
+                        </div>
+                        <div class="do-caption">
+                            <h4><a href="https://www.aalto.fi/en">[Aalto] Aalto University</a></h4>
+                            <!-- <p>Lily Diaz-Kommonen, Markku Reunanen, Samir Bhowmik, Tatu Blomqvist</p> -->
+                        </div>
+                        <!-- <div class="do-btn">
+                            <a href="#"><i class="ti-arrow-right"></i> get started</a>
+                        </div> -->
+                    </div>
+                </div>
+
+
+
+                <div class="col-lg-4 col-md-6">
+                    <div class="single-do text-center mb-30">
+                        <div class="do-icon">
+                            <!-- <span class="flaticon-tasks"></span> -->
+                            <a href="https://www.en.aau.dk/"><img src="assets/img/logo/aalborg.png" alt="Aalborg University logo"></a>
+                        </div>
+                        <div class="do-caption">
+                            <h4><a href="https://www.en.aau.dk/">[AAU] Aalborg University</a></h4>
+                            <!-- <p>Luis Emilio Bruni, Luca Simeone</p> -->
+                        </div>
+                        <!-- <div class="do-btn">
+                            <a href="#"><i class="ti-arrow-right"></i> get started</a>
+                        </div> -->
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <div class="single-do text-center mb-30">
+                        <div class="do-icon">
+                            <!-- <span class="flaticon-tasks"></span> -->
+                            <a href="https://www.designmuseum.fi/en/"><img src="assets/img/logo/museum_helsinki.png" alt="Design Museum Helsinki logo"></a>
+                        </div>
+                        <div class="do-caption">
+                            <h4><a href="https://www.designmuseum.fi/en/">[DMH] Design Museum Helsinki</a></h4>
+                            <!-- <p>Leena Svinhufvud</p> -->
+                        </div>
+                        <!-- <div class="do-btn">
+                            <a href="#"><i class="ti-arrow-right"></i> get started</a>
+                        </div> -->
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <div class="single-do text-center mb-30">
+                        <div class="do-icon">
+                            <!-- <span class="flaticon-tasks"></span> -->
+                            <a href="https://imma.ie/"><img src="assets/img/logo/imma.png" alt="Irish Museum of Modern Art logo"></a>
+                        </div>
+                        <div class="do-caption">
+                            <h4><a href="https://imma.ie/">[IMMA] Irish Museum of Modern Art</a></h4>
+                            <!-- <p>Mark Maguire</p> -->
+                        </div>
+                        <!-- <div class="do-btn">
+                            <a href="#"><i class="ti-arrow-right"></i> get started</a>
+                        </div> -->
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <div class="single-do text-center mb-30">
+                        <div class="do-icon">
+                            <!-- <span class="flaticon-tasks"></span> -->
+                            <a href="https://www.gvam.es/en/"><img src="assets/img/logo/gvam.png" alt="GVAM Interactive Guides S.L. logo"></a>
+
+                        </div>
+                        <div class="do-caption">
+                            <h4><a href="https://www.gvam.es/en/">[GVAM] GVAM Interactive Guides S.L.</a></h4>
+                            <!-- <p>Jaime Solano, Marta Redondo, Ignacio López, Marta García-Muñoz, Alfredo Peña, David Grajales, Jorge García González, Hugo Miguez Sandoval, Marcos Ramírez Paricio</p>-->
+                        </div>
+                        <!-- <div class="do-btn">
+                            <a href="#"><i class="ti-arrow-right"></i> get started</a>
+                        </div> -->
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <div class="single-do text-center mb-30">
+                        <div class="do-icon">
+                            <!-- <span class="flaticon-tasks"></span> -->
+                            <a href="http://www.open.ac.uk/"><img src="assets/img/logo/ou.png" alt="Open University logo"></a>
+
+                        </div>
+                        <div class="do-caption">
+                            <h4><a href="http://www.open.ac.uk/">[OU] Open University</a></h4>
+                            <!-- <p>Paul Mulholland, Enrico Daga, Trevor Collins</p> -->
+                        </div>
+                        <!-- <div class="do-btn">
+                            <a href="#"><i class="ti-arrow-right"></i> get started</a>
+                        </div> -->
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <div class="single-do text-center mb-30">
+                        <div class="do-icon">
+                            <!-- <span class="flaticon-tasks"></span> -->
+                            <a href="http://www.padaonegames.com/"><img src="assets/img/logo/padaone.png" alt="PadaOne Games logo"></a>
+
+                        </div>
+                        <div class="do-caption">
+                            <h4><a href="http://www.padaonegames.com/">[PG] PadaOne Games</a></h4>
+                            <!-- <p>Pedro Antonio González Calero, Pedro Pablo Gómez Martín, Marco Antonio Gómez Martín</p> -->
+                        </div>
+                        <!-- <div class="do-btn">
+                            <a href="#"><i class="ti-arrow-right"></i> get started</a>
+                        </div> -->
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <div class="single-do text-center mb-30">
+                        <div class="do-icon">
+                            <!-- <span class="flaticon-tasks"></span> -->
+                            <a href="https://www.celi.it/en/"><img src="assets/img/logo/celi.png" alt="CELI - Language Technology logo"></a>
+
+                        </div>
+                        <div class="do-caption">
+                            <h4><a href="https://www.celi.it/en/">[CELI] CELI - Language Technology</a></h4>
+                            <!-- <p>Andrea Bolioli, Chiara Albano, Alessio Bosca, Francesco Tarasconi, Raffaella Ventaglio</p> -->
+                        </div>
+                        <!-- <div class="do-btn">
+                            <a href="#"><i class="ti-arrow-right"></i> get started</a>
+                        </div> -->
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <div class="single-do text-center mb-30">
+                        <div class="do-icon">
+                            <!-- <span class="flaticon-tasks"></span> -->
+                            <a href="https://www.ucm.es/english"><img src="assets/img/logo/ucm.png" alt="Complutense University of Madrid logo"></a>
+
+                        </div>
+                        <div class="do-caption">
+                            <h4><a href="https://www.ucm.es/english">[UCM] Complutense University of Madrid</a></h4>
+                            <!-- <p>M. Belen Díaz-Agudo, Guillermo Jimenez-Diaz</p> -->
+                        </div>
+                        <!-- <div class="do-btn">
+                            <a href="#"><i class="ti-arrow-right"></i> get started</a>
+                        </div> -->
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <div class="single-do text-center mb-30">
+                        <div class="do-icon">
+                            <!-- <span class="flaticon-tasks"></span> -->
+                            <a href="http://www.cirma.unito.it/"><img src="assets/img/logo/cirma.png" alt="CIRMA University of Turin logo"></a>
+
+                        </div>
+                        <div class="do-caption">
+                            <h4><a href="http://www.cirma.unito.it/">[UNITO] CIRMA University of Turin</a></h4>
+                            <!-- <p>Rossana Damiano, Antonio Lieto, Vincenzo Lombardo, Antonio Pizzo, Barbara Bruschi, Cecilia M. Marchisio</p> -->
+                        </div>
+                        <!-- <div class="do-btn">
+                            <a href="#"><i class="ti-arrow-right"></i> get started</a>
+                        </div> -->
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <div class="single-do text-center mb-30">
+                        <div class="do-icon">
+                            <!-- <span class="flaticon-tasks"></span> -->
+                            <a href="https://www.fondazionetorinomusei.it/it"><img src="assets/img/logo/ftm.png" alt="Fondazione Torino Musei logo"></a>
+
+                        </div>
+                        <div class="do-caption">
+                            <h4><a href="https://www.fondazionetorinomusei.it/it">[FTM] Fondazione Torino Musei</a></h4>
+                            <!-- <p>Giorgia Rochas, Federica Sesia, Anna Follo</p> -->
+                        </div>
+                        <!-- <div class="do-btn">
+                            <a href="#"><i class="ti-arrow-right"></i> get started</a>
+                        </div> -->
+                    </div>
+                </div>
+
+
+
+                <div class="col-lg-4 col-md-6">
+                    <div class="single-do text-center mb-30">
+                        <div class="do-icon">
+                            <!-- <span class="flaticon-tasks"></span> -->
+                            <a href="https://www.haifa.ac.il/index.php/en/"><img src="assets/img/logo/haifa.jpg" alt="University of Haifa and Hecht Museum logo"></a>
+
+                        </div>
+                        <div class="do-caption">
+                            <h4><a href="https://www.haifa.ac.il/index.php/en/">[UH] University of Haifa and Hecht Museum</a></h4>
+                            <!-- <p>Tsvi Kuflik, Iris Reinhartz-Berger, Joel Lanir, Shunit Netter-Marmelstein, Alan Wecker, Julia Sheidin</p> -->
+                        </div>
+                        <!-- <div class="do-btn">
+                            <a href="#"><i class="ti-arrow-right"></i> get started</a>
+                        </div> -->
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <div class="single-do text-center mb-30">
+                        <div class="do-icon">
+                            <!-- <span class="flaticon-tasks"></span> -->
+                            <a href="https://www.cnr.it/"><img src="assets/img/logo/cnr.png" alt="Consiglio nazionale delle ricerche logo"></a>
+
+                        </div>
+                        <div class="do-caption">
+                            <h4><a href="https://www.cnr.it/">[CNR] Centro Nazionale delle Ricerche</a></h4>
+                            </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-4 col-md-6">
+                    <div class="single-do text-center mb-30">
+                        <div class="do-icon">
+                            <a href="http://www.istitutosorditorino.org/?language=en"><img src="assets/img/logo/sordi.png" alt="Turin Institute for the Deaf logo"></a>
+                        </div>
+                        <div class="do-caption">
+                            <h4><a href="http://www.istitutosorditorino.org/?language=en">Turin Institute for the Deaf</a></h4>
+                            <p>[Third parties]</p>
+                        </div>
+                        <!-- <div class="do-btn">
+                            <a href="#"><i class="ti-arrow-right"></i> get started</a>
+                        </div> -->
+                    </div>
+                </div>
+
+
+            </div>
+        </div>
+    </div>
+    <!-- What We do End-->
+
+
+
+
+    <!-- latest news start -->
+   <section class="blog_area single-post-area section-padding">
+       <div class="container">
+           <div class="row d-flex justify-content-center">
+               <div class="col-lg-8">
+                   <div class="section-tittle text-center">
+                       <h2>Latest News​</h2>
+                   </div>
+               </div>
+           </div>
+          <div class="row d-flex justify-content-center">
+               {% for post in site.posts limit:3 %}
+                <div class="single-post col-lg-3 col-md-3">
+                   <div class="blog_details">
+                      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+                      </h2>
+                      <ul class="blog-info-link mt-3 mb-4">
+                         <li><i class="fa fa-user"></i> {{ post.author }}</li>
+                         <li><i class="fa fa-calendar"></i>{{ post.date | date_to_string }}</li>
+                         <li><i class="fa fa-hashtag"></i> {{ post.tag }}</li>
+                      </ul>
+                      <p class="excert">
+                         {{ post.excerpt }}
+                      </p>
+
+                   </div>
+                </div>
+                {% endfor %}
+               </div>
+           </div>
+   </section>
+   <!-- latest news end -->
+
+    <!-- <div class="we-create-area create-padding">
         <div class="container">
             <div class="row d-flex align-items-end">
                 <div class="col-lg-6 col-md-12">
@@ -184,7 +504,7 @@ title: SPICE - Home
                         <h3>Inclusive Case Studies</h3>
                         <p>In Spice we selected five different case studies of citizens
                             whose voices are often unheard when it comes to cultural heritage interpretation.
-                            We promote a platform of inclusion in which every voice matters 
+                            We promote a platform of inclusion in which every voice matters
                             and we design every aspect of the project taking this goal into
                             consideration making sure that no one's voice will be unheard.
                             Want to know more about our case studies? Click the button below.</p>
@@ -193,12 +513,11 @@ title: SPICE - Home
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- We Create End -->
     <!-- Generating Start -->
-    <div class="generating-area ">
+    <!-- <div class="generating-area ">
         <div class="container">
-             <!-- Section-tittle -->
              <div class="row d-flex justify-content-center">
                 <div class="col-lg-8">
                     <div class="section-tittle text-center">
@@ -209,9 +528,6 @@ title: SPICE - Home
             <div class="row">
                 <div class="col-lg-6 col-md-6">
                     <div class="single-generating d-flex mb-30">
-                        <!-- <div class="generating-icon">
-                            <span class="flaticon-chart"></span>
-                        </div> -->
                         <div class="generating-cap">
                             <h4>Heritage institutions</h4>
                             <p>Museums and heritage practitioners that aim to adopt project tools and methods to engage with their patrons.</p>
@@ -220,9 +536,6 @@ title: SPICE - Home
                 </div>
                 <div class="col-lg-6 col-md-6">
                     <div class="single-generating d-flex mb-30">
-                        <!-- <div class="generating-icon">
-                            <span class="flaticon-social-media-marketing"></span>
-                        </div> -->
                         <div class="generating-cap">
                             <h4>Community groups</h4>
                             <p>Community organisations and excluded groups that want to codesign and provide feedback on tools and methods. </p>
@@ -231,9 +544,6 @@ title: SPICE - Home
                 </div>
                 <div class="col-lg-6 col-md-6">
                     <div class="single-generating d-flex mb-30">
-                        <!-- <div class="generating-icon">
-                            <span class="flaticon-speaker"></span>
-                        </div> -->
                         <div class="generating-cap">
                             <h4>Public</h4>
                             <p>Social media platforms, newsletters, and local press will help us to reach members of the public that have an active interest in culture. </p>
@@ -242,9 +552,7 @@ title: SPICE - Home
                 </div>
                 <div class="col-lg-6 col-md-6">
                     <div class="single-generating d-flex mb-30">
-                        <!-- <div class="generating-icon">
-                            <span class="flaticon-growth"></span>
-                        </div> -->
+
                         <div class="generating-cap">
                             <h4>Educators</h4>
                             <p>School teachers and educators that aim to integrate project results into courses and curricula. </p>
@@ -253,7 +561,7 @@ title: SPICE - Home
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Generating End -->
 
      <!-- have-project Start-->

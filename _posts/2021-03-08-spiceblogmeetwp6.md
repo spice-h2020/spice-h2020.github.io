@@ -2,6 +2,7 @@
 layout: post
 author: Laseca, Guillermo
 title: Meet SPICE Work Packages&#58; Integrating Systems for Citizen Curation
+tag: WP6
 ---
 
 Let&#39;s get to know it! Today in &quot;Meet Spice&quot;, following on the objectives and relations of SPICE Work Packages, it is time to know about **SPICE Work Package 6: Integrating Systems**.

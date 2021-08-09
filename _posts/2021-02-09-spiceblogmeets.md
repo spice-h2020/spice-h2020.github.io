@@ -2,6 +2,7 @@
 layout: post
 author: Sartini, Bruno
 title: Meet SPICE Work Packages&#58; Development of citizen curation methods
+tag: WP2
 ---
 
 Today in &quot;Meet Spice&quot; it&#39;s time to introduce you **SPICE Work Package 2** , whose job is formulating the theoretical framework to **apply interpretation and reflection methods for citizen curation**. Let&#39;s get to know it!

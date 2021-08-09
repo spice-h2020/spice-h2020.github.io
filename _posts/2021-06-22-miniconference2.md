@@ -2,6 +2,7 @@
 layout: post
 author: Laseca, Guillermo
 title:  SPICE Mini-conference II&#58; Methodologies to connect with citizens
+tag: WP2, miniconference
 ---
 
 On March 23, the **second [SPICE](https://spice-h2020.eu/) mini-conference**  took place in which methodologies would be established  **to connect culture with citizens.**  The all-day session was conducted by **Work Package 2 (Citizen curation methods)** and **Work Package 5 (Interface design)** as well as co-designed by **Work Package 7 (Codesign and evaluation of citizen curation activities)**.

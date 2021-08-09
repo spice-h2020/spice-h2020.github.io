@@ -3,6 +3,7 @@ layout: post
 author: Laseca, Guillermo
 title: Get to know the museums participating at SPICE during Museum Week 2021
 excerpt_separator: <!--more-->
+tag: museumweek
 ---
 
 During next week, from June 7 to 13, and as part of the Museum Week 2021, we want to introduce our followers to the different museums participating in SPICE. In this sense, through a series of scheduled posts shared daily by SPICE social media accounts ([Twitter](https://twitter.com/SpiceH2020), [Instagram](https://www.instagram.com/spice_h2020/), [LinkedIn](https://www.linkedin.com/company/spice-h2020/)), we will disseminate interesting information about our museums, their collection and the case studies being developed within SPICE in each of them.

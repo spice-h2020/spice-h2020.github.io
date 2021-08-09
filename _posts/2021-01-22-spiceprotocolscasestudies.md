@@ -2,6 +2,7 @@
 layout: post
 author: Laseca, Guillermo
 title: From case studies to real solutions and protocols in SPICE Project
+tag: WP7
 ---
 
 In SPICE we are endeavouring to create **new tools and methods which help European citizens to interpret culture** and tell their own stories.

@@ -2,6 +2,7 @@
 layout: post
 author: Laseca, Guillermo
 title: Meet SPICE Work Packages &#58; SPICE Linked Data Hub
+tag: WP4
 ---
 
 

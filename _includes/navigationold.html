@@ -1,0 +1,61 @@
+
+<!--
+<nav>
+    {% for item in site.data.navigation %}
+      <a href="{{ item.link }}" {% if page.url == item.link %}style="color: red;"{% endif %}>
+        {{ item.name }}
+      </a>
+    {% endfor %}
+  </nav>
+-->
+<!-- Header Start -->
+<div class="header-area header-transparent ">
+  <div class="main-header header-sticky">
+      <div class="container">
+          <div class="row align-items-center">
+              <!-- Logo -->
+              <div class="col-xl-2 col-lg-2 col-md-1">
+                  <div class="logo">
+                      <a href="{{ site.url }}"><img src="{{ site.url }}assets/img/logo/logo.png" alt="SPICE logo"></a>
+                  </div>
+              </div>
+              <div class="col-xl-8 col-lg-8 col-md-8">
+                  <!-- Main-menu -->
+                  <div class="main-menu f-right d-none d-lg-block">
+                      <nav>
+                          <ul id="navigation">
+                              <li><a href="{{ site.url }}"> Home</a></li>
+                              <li><a href="{{ site.url }}about/">Partners</a></li>
+                              <li><a href="#">Research</a>
+                                  <ul class="submenu">
+                                      <li><a href="{{ site.url }}project/">Project</a></li>
+                                      <li><a href="{{ site.url }}case_studies/">Case studies</a></li>
+                                      <!-- <li><a href="modelling/">Data modelling</a></li> -->
+                                      <li><a href="{{ site.url }}publications/">Publications</a></li>
+                                      <li><a href="{{ site.url }}deliverables/">Deliverables</a></li>
+                                  </ul>
+                              </li>
+                              <li><a href="#">Outreach</a>
+                                <ul class="submenu">
+                                  <li><a href="{{ site.url }}news/">News</a></li>
+                                  <li><a href="{{ site.url }}events/">Events</a></li>
+                                  <li><a href="{{ site.url }}press/">Press and Media</a></li>
+                                </ul>
+                              </li>
+                          </ul>
+                      </nav>
+                  </div>
+              </div>
+              <div class="col-xl-2 col-lg-2 col-md-3">
+                  <div class="header-right-btn f-right d-none d-lg-block">
+                      <a target="_blank" href="https://liveunibo.sharepoint.com/:f:/r/sites/spice-h2020/Shared%20Documents/SPICE%20H2020%20Documents?csf=1&web=1&e=gaEucu" class="btn header-btn">Member area</a>
+                  </div>
+              </div>
+              <!-- Mobile Menu -->
+              <div class="col-12">
+                  <div class="mobile_menu d-block d-lg-none"></div>
+              </div>
+          </div>
+      </div>
+  </div>
+</div>
