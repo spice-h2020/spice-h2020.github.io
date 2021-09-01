@@ -110,7 +110,18 @@ p {font-family: 'Karla', sans-serif !important; color : black !important;}
   z-index: -1;
 }
 p {font-size: 1.3em; line-height: 1.7em; }
-#g_back h1 {font-size: 6em;}
+@media only screen and (max-width: 800px)  {
+  h1 {
+      font-size: 18px !important;
+  }
+}
+@media (min-width: 800px) {
+  #g_back h1 {font-size: 6em;}
+}
+@media (max-width: 799px) {
+  #g_back h1 {font-size: 3em;}
+}
+
 .main_header {padding:2em 0px;}
 .main_header * {text-align: left;}
 .do-btn a {color: rgb(163, 163, 54) !important;}
@@ -140,8 +151,3 @@ height:80vh}
 .blog_details h5 {color:rgb(163, 163, 54) !important}
 .all_social h4 {display: inline-block; padding: 10px;}
 
-@media only screen and (max-width: 800px)  {
-  h1 {
-      font-size: 18px !important;
-  }
-}
