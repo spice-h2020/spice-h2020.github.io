@@ -35,7 +35,7 @@ layout: default
                       <img class="img-fluid" src="assets/img/blog/single_blog_1.png" alt="">
                    </div> -->
                    <div class="blog_details">
-                      <h2>{{ event.title }}
+                      <h2><a target="_blank" href="{{ event.evlink }}">{{ event.title }}</a>
                       </h2>
                       <ul class="blog-info-link mt-3 mb-4">
                          <li><i class="fa fa-user"></i> {{ event.author }}</li>
@@ -44,11 +44,6 @@ layout: default
                       <p class="excert">
                         {{ event.content | markdownify }}
                      </p>
-                     {% if event.evlink %}
-                      <div class="do-btn">
-                          <a target="_blank" href="{{ event.evlink }}"><i class="ti-arrow-right"></i> {{ event.linkname }}</a>
-                      </div>
-                      {% endif %}
                    </div>
                 </div>
                 {% endfor %}

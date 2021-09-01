@@ -1,5 +1,5 @@
 ---
-title: SPICE - Press and Media
+title: SPICE - Media and Press
 permalink: /press/
 layout: default
 ---
@@ -14,8 +14,8 @@ layout: default
             <div class="row d-flex justify-content-center">
                 <div class="col-lg-8">
                     <div class="section-tittle text-center mb-80">
-                        <span>Who talks about us</span>
-                        <h2>Press and Media</h2>
+                        <span>Media, press releases and articles about us</span>
+                        <h2>Media and Press</h2>
                     </div>
                 </div>
             </div>
@@ -28,36 +28,74 @@ layout: default
     <section class="blog_area single-post-area section-padding">
        <div class="container">
           <div class="row">
-             <div class="col-lg-8 posts-list">
-               {% for event in site.press %}
-                <div class="single-post">
-                   <!-- <div class="feature-img">
-                      <img class="img-fluid" src="assets/img/blog/single_blog_1.png" alt="">
-                   </div> -->
-                   <div class="blog_details">
-                      <h2>{{ event.title }}
-                      </h2>
-                      <ul class="blog-info-link mt-3 mb-4">
-                         <li><i class="fa fa-user"></i> {{ event.author }}</li>
-                         <li><i class="fa fa-calendar"></i>{{ event.date | date_to_string }}</li>
-                      </ul>
-                      <p class="excert">
-                        {{ event.content | markdownify }}
-                      </p>
-                      {% if event.extlink %}
-                      <div class="do-btn">
-                          <a target="_blank" href="{{ event.extlink }}"><i class="ti-arrow-right"></i> Read more</a>
-                      </div>
-                      {% endif %}
-                   </div>
-                </div>
-                {% endfor %}
+            <div class="col-8">
+               <!-- <h2 class="contact-title">ARTICLES ABOUT US</h2> -->
+               {% for press in site.press reversed %}
+               {%if press.section == 2 %}
+               <div class="single-post">
+                  <div class="blog_details">
+                     <h5><a target="_blank" href="{{ press.externallink }}">{{ press.title }}</a>
+                     </h5>
+                     <ul class="blog-info-link mt-3 mb-4">
+                        <li><i class="fa fa-university"></i><a href="{{ press.media }}"> {{ press.author }}</a></li>
+                        <li><i class="fa fa-calendar"></i>{{ press.date | date_to_string }}</li>
+                     </ul>
+                     <p class="excert">
+                        {{ press.content | markdownify }}
+                     </p>
+                     </div>
+               </div>
+               {% endif %}
+               {% endfor %}
+               </div>
+
+               <!--<h2 class="contact-title">2021</h2>
+               {% for deliverable in site.deliverables %}
+               {%if deliverable.year == 2021 %}
+               <p><a href="{{ deliverable.delivpath }}">{{ deliverable.delivcode}} - {{deliverable.title }}</a></p></br>
+               {% endif %}
+               {% endfor %}-->
+             <div class="col-lg-4 col-md-4 col-sm-12">
+               <section>
+                 <h2 class="contact-title">PROMOTIONAL VIDEO</h2>
+                 <video controls class="col-md-12">
+                   <source src="{{'assets/video.mp4' | relative_url }}" type="video/mp4">
+                  </video>
+               </section>
+               <section>
+                 <h2 class="contact-title">FOLLOW US</h2>
+                 <section class="all_social">
+                   <h4><a target="_blank" href="https://www.instagram.com/spice_h2020/"><i class="fab fa-instagram"></i></a>
+                   </h4>
+                   <h4><a target="_blank" href="https://twitter.com/SpiceH2020"><i class="fab fa-twitter"></i></a>
+                    </h4>
+                   <h4><a target="_blank" href="https://www.linkedin.com/company/spice-h2020"><i class="fab fa-linkedin"></i></a>
+                     </h4>
+                   <h4><a target="_blank" href="https://github.com/spice-h2020"><i class="fab fa-github"></i></a>
+                     </h4>
+                   <h4><a target="_blank" href="https://www.youtube.com/channel/UCk04KJW9dcBDMdw0baBH_Tw"><i class="fab fa-youtube"></i></a>
+                     </h4>
+                 </section>
+               </section>
+               <section>
+                 <h2 class="contact-title">PRESS RELEASE AND MEDIA</h2>
+                 <section>
+                   {% for press in site.press %}
+                     {%if press.section == 1 %}
+                      <p><a href="{{ press.presspath }}">{{ press.title }}</a></p>
+                     {% endif %}
+                   {% endfor %}
+                   {%include sidebar.html %}
+                 </section>
+               </section>
+           </div>
 
              </div>
-             <div class="col-lg-4">
-                {%include sidebar.html %}
-             </div>
-          </div>
+          <!-- <div class="row">
+            <div class="col-8">
+               <h2 class="contact-title">PROMOTIONAL VIDEO</h2>
+            </div>
+         </div> -->
        </div>
     </section>
     <!--================ Blog Area end =================-->
