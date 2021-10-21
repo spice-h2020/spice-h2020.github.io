@@ -1,11 +1,9 @@
 ---
 layout: post
 author: Laseca, Guillermo
-title: Meet SPICE Work Packages&#58; Distributed Linked Data Social Media Layer
-tag: WP6
+title: Meet SPICE Work Packages&#58; Distributed Linked Data Social Media Layer - First year results!
+tag: WP4
 ---
-
-# WP4 Distributed Linked Data Social Media Layer - First year results!
 
 **SPICE Work Package 4** , coordinated by the Open University, is developing the Linked Data infrastructure to connect cultural objects, collections, and citizen contributions.
 
