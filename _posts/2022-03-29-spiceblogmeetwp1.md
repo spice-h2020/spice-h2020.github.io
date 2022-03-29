@@ -25,4 +25,4 @@ To achieve such results, we have carried out an **extensive analysis of previous
 ***
 ## Work Package 1 in 2022
 
-![]({{ site.url }}assets/img/team/map.png){:.peoplePostImageInline} This year will be devoted to the implementation and validation of methods and techniques so that (1) museums will be able to manage their digital resources and **understand how citizens respond to their collections**, and (2) citizens will be provided with data-centric, AI-informed technologies and methods that support them in **interpreting culture for themselves**.
+![]({{ site.url }}assets/img/team/map.png){:class="img-fluid"}{:.peoplePostImageInline} This year will be devoted to the implementation and validation of methods and techniques so that (1) museums will be able to manage their digital resources and **understand how citizens respond to their collections**, and (2) citizens will be provided with data-centric, AI-informed technologies and methods that support them in **interpreting culture for themselves**.
