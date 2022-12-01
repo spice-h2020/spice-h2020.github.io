@@ -2,7 +2,7 @@
 layout: post
 author: Laseca, Guillermo
 title: SPICE UPDATE&#58; Museum Week special
-tag: recommentation
+tag: museumweek
 excerpt_separator: <!--end_excerpt-->
 ---
 
