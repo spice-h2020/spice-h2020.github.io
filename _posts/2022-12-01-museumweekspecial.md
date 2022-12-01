@@ -19,7 +19,7 @@ We hope you find it interesting 😊!
 
 ## SPICE CASE STUDIES
 
-![]({{ site.url }}assets/img/team/viewpoints.jpeg){:class="img-fluid"}{:.peoplePostImageInline}**Promoting Culture, Society and Innovation**
+[![]({{ site.url }}assets/img/team/viewpoints.jpeg){:class="img-fluid"}{:.peoplePostImageInline}](https://spice-h2020.eu/ireland/)**Promoting Culture, Society and Innovation**
 
 We celebrated [#MuseumWeek2022](https://www.instagram.com/MUSEUMWEEK/) with a series of **SPICE case studies** related to this year's theme of 'culture, society and innovation’.
 
@@ -34,7 +34,7 @@ Did you miss them? Here's a look at how [SPICE’s case studies](https://www.ins
 
 ## PAPER
 
-![]({{ site.url }}assets/img/team/paper.png){:class="img-fluid"}{:.peoplePostImageInline}**Language-based approaches to emotion categorization**
+[![]({{ site.url }}assets/img/team/paper.png){:class="img-fluid"}{:.peoplePostImageInline}](https://twitter.com/SpiceH2020/status/1527226745484623872?s=20&t=tBaHd0LEaDRAf0vm9mfuwg)**Language-based approaches to emotion categorization**
 
 “*A complementary account to emotion extraction and classification in #culturalheritage based on the Plutchik’s theory*" by Andrea Bolioli, Alessio Bosca, Rossana Damiano, Antonio Lieto and Manuel Striani. This paper presents a combined approach to knowledge-based emotion attribution and classification of cultural items employed in the H2020 project SPICE. In particular, we show a preliminary experimentation conducted on a selection of items contributed by the [GAM Museum](https://www.gamtorino.it/it) in Turin (Galleria di Arte Moderna).
 

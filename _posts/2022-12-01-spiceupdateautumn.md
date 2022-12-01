@@ -29,7 +29,7 @@ After years of debate and consultation, ICOM has a [new museum definition](https
 
 ## STAY TUNED!
 
-![]({{ site.url }}assets/img/team/brancacci.png){:class="img-fluid"}{:.peoplePostImageInline}**The Brancacci Chapel as you have never seen it**
+[![]({{ site.url }}assets/img/team/brancacci.png){:class="img-fluid"}{:.peoplePostImageInline}](https://twitter.com/SpiceH2020/status/1527226745484623872?s=20&t=tBaHd0LEaDRAf0vm9mfuwg)**The Brancacci Chapel as you have never seen it**
 
 The **BRANCACCI POV** prototype was presented to the public during **TOURISMA expo**. This was a new installation whose goal was to test how to improve social cohesion by developing collaborative hybrid museum experiences #BrancacciPOV
 
@@ -39,7 +39,7 @@ The **BRANCACCI POV** prototype was presented to the public during **TOURISMA ex
 
 ## NEW IN THE NEWS
 
-![]({{ site.url }}assets/img/team/curate.png){:class="img-fluid"}{:.peoplePostImageInline}**New perspectives on museum collections**
+[![]({{ site.url }}assets/img/team/curate.png){:class="img-fluid"}{:.peoplePostImageInline}](https://twitter.com/SpiceH2020/status/1527226745484623872?s=20&t=tBaHd0LEaDRAf0vm9mfuwg)**New perspectives on museum collections**
 
 Discover two recent exhibitions curated by groups of 'non-professionals' to share new perspectives on museum collections:
 
@@ -61,7 +61,7 @@ Interesting, right?
 
 ## LATEST ON CASE STUDIES
 
-![]({{ site.url }}assets/img/team/casestudy.png){:class="img-fluid"}{:.peoplePostImageInline}**Uncomfortable revelations**
+[![]({{ site.url }}assets/img/team/casestudy.png){:class="img-fluid"}{:.peoplePostImageInline}](https://twitter.com/SpiceH2020/status/1527226745484623872?s=20&t=tBaHd0LEaDRAf0vm9mfuwg)**Uncomfortable revelations**
 
 An Irish SPICE case study is on the cover of the latest edition of Museum Ireland:
 “Uncomfortable revelations: can citizen curation widen access to museums?” An interesting article that asks whether citizen curation provides a model for supporting the participation of under-served communities.
