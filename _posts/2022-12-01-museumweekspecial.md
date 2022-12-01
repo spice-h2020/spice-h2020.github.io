@@ -3,13 +3,14 @@ layout: post
 author: Laseca, Guillermo
 title: SPICE UPDATE&#58; Museum Week special
 tag: recommentation
+excerpt_separator: <!--end_excerpt-->
 ---
 
 Hello!
 
 
 Welcome to our monthly update of **SPICE Project** news and recommendations. Before you head off for vacation, check out these **highlights** from **#MuseumWeek2022**.
-
+<!--end_excerpt-->
  
 
 We hope you find it interesting 😊! 

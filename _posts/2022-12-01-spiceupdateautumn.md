@@ -3,11 +3,13 @@ layout: post
 author: Laseca, Guillermo
 title: SPICE UPDATE&#58; Autumn Edition
 tag: recommentation
+excerpt_separator: <!--end_excerpt-->
 ---
 
 Dear **SPICEr**
 
 We have welcomed Fall 🍂 with an array of very interesting updates we are sure you are going to love. For example, a **new museum definition** aligned very closely with the objectives in the SPICE Project: developing of tools and methods of citizen curation that support accessibility, inclusivity, diversity, and community participation.
+<!--end_excerpt-->
 
 This is also the objective behind the upcoming **BRANCACCI POV** prototype, an interesting project you will want to learn more about for sure.
 
