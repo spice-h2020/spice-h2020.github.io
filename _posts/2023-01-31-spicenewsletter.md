@@ -2,7 +2,7 @@
 layout: post
 author: Laseca, Guillermo
 title: SPICE UPDATE&#58; Culture to everyone
-tag: spiceupdate
+tag: recommendation
 excerpt_separator: <!--end_excerpt-->
 ---
 
