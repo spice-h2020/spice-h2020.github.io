@@ -1,15 +1,15 @@
 {
     "metadata": {
-        "title" : "",
+        
         "upload_type": "publication",
         "publication_type": "conferencepaper",
         "access_right": "open",
         "license": "cc-by",
         "related_identifiers": [{"relation": "isPartOf", "identifier":"10.5281/zenodo.7845049"}],
         "contributors": [
-            {"name":"Asprino, Luigi", "affiliation": "University of Bologna", "type": "Editor", "orcid": "0000-0003-1907-0677" },
-            {"name":"Gangemi, Aldo", "affiliation": "University of Bologna", "type": "Editor", "orcid": "0000-0001-5568-2684" },
-            {"name":"Peroni, Silvio", "affiliation": "University of Bologna", "type": "Editor", "orcid": "0000-0003-0530-4305" }
+            {"name":"Asprino, Luigi", "affiliation": "University of Bologna, Italy", "type": "Editor", "orcid": "0000-0003-1907-0677" },
+            {"name":"Gangemi, Aldo", "affiliation": "University of Bologna and National Research Council – Institute of Cognitive Science and Technologies, Italy", "type": "Editor", "orcid": "0000-0001-5568-2684" },
+            {"name":"Peroni, Silvio", "affiliation": "University of Bologna, Italy", "type": "Editor", "orcid": "0000-0003-0530-4305" }
 
         ],
         "conference_title": "Extended Intelligence for Cultural Engagement",
@@ -18,14 +18,14 @@
         "conference_place": "Bologna, Italy",
         "conference_url": "https://spice-h2020.eu/conference/",
 
-
+        "title" : "A semantic VR cognitive system to promote social cohesion through cultural heritage",
         "description": "Based on studies related to the use of Virtual Reality (VR) to increase prosocial and empathic behaviors, and in line with the H2020 SPICE project (Social Cohesion, Participation and Inclusion through Cultural Engagement), our research employs VR technology to encourage users to adopt an alternative point of view through a virtual embodiment, in order to increase social cohesion. To this aim we have built a virtual museum where different avatars (parameterized on age, gender and nationality) can interact with experimental subjects to discuss emotional and value-driven interpretations related to works of art, aiming at bootstrapping user’s intepretation-reflection loops. Based on the results of our pilot study, which show that a VR-driven methodology fosters a sense of embodiment and maximize the social cohesion among users, we are working on an innovative real-time system based on data semantics, in order to sensitize people to other interpretations.", 
         "creators": [
-            {"name":"Asprino, Luigi", "affiliation": "University of Bologna", "orcid": "0000-0003-1907-0677"},
-            {"name":"Gangemi, Aldo", "affiliation": "University of Bologna and National Research Council – Institute of Cognitive Science and Technologies", "orcid": "0000-0001-5568-2684" },
-            {"name":"Lucifora, Chiara", "affiliation": "National Research Council – Institute of Cognitive Science and Technologies", "orcid": "0000−0003−1139−1548"},
-            {"name":"Poggi, Francesco", "affiliation": "National Research Council – Institute of Cognitive Science and Technologies", "orcid": "0000-0001-6577-5606"},
-            {"name":"Schembri, Massimiliano", "affiliation": "National Research Council – Institute of Cognitive Science and Technologies", "orcid": "0000-0001-9625-0052"},
+            {"name":"Asprino, Luigi", "affiliation": "University of Bologna, Italy", "orcid": "0000-0003-1907-0677"},
+            {"name":"Gangemi, Aldo", "affiliation": "University of Bologna and National Research Council – Institute of Cognitive Science and Technologies, Italy", "orcid": "0000-0001-5568-2684" },
+            {"name":"Lucifora, Chiara", "affiliation": "National Research Council – Institute of Cognitive Science and Technologies, Italy", "orcid": "0000−0003−1139−1548"},
+            {"name":"Poggi, Francesco", "affiliation": "National Research Council – Institute of Cognitive Science and Technologies, Italy", "orcid": "0000-0001-6577-5606"},
+            {"name":"Schembri, Massimiliano", "affiliation": "National Research Council – Institute of Cognitive Science and Technologies, Italy", "orcid": "0000-0001-9625-0052"},
         ],
         "keywords": ["Virtual Reality", "Data Semantics", "Social Cohesion"],
         "grants": [{"id":"870811"}]

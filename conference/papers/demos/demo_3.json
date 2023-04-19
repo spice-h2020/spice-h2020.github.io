@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        
+        "upload_type": "publication",
+        "publication_type": "conferencepaper",
+        "access_right": "open",
+        "license": "cc-by",
+        "related_identifiers": [{"relation": "isPartOf", "identifier":"10.5281/zenodo.7845049"}],
+        "contributors": [
+            {"name":"Asprino, Luigi", "affiliation": "University of Bologna, Italy", "type": "Editor", "orcid": "0000-0003-1907-0677" },
+            {"name":"Gangemi, Aldo", "affiliation": "University of Bologna and National Research Council – Institute of Cognitive Science and Technologies, Italy", "type": "Editor", "orcid": "0000-0001-5568-2684" },
+            {"name":"Peroni, Silvio", "affiliation": "University of Bologna, Italy", "type": "Editor", "orcid": "0000-0003-0530-4305" }
+
+        ],
+        "conference_title": "Extended Intelligence for Cultural Engagement",
+        "conference_acronym": "ExICE",
+        "conference_dates": "15 March 2023",
+        "conference_place": "Bologna, Italy",
+        "conference_url": "https://spice-h2020.eu/conference/",
+
+
+        "title" : "Citizen Curation of Digital Cultural Heritage through the Co-design of a Virtual Reality Museum",
+        "description": "This case study presents a prototype of the “Pop-up VR Museum” in which users can interact with virtual design objects from the collection of Design Museum, Helsinki and listen to stories about Finnish design objects. These stories have been contributed by individuals and communities through their voluntary participation in targeted workshops and other events organized by museum professionals from the Design Museum. The VR application is being designed as a part of SPICE, an EU Horizon 2020 funded research project dedicated to the idea of “citizen curation” of cultural heritage. Gamification has been implemented in the experience allowing playful interactions with objects to view, engage with, and experience them from different perspectives. The Pop-up VR Museum has been tested and evaluated with more than 300 users and the demo provides insights for other museums and designers aiming to create inclusive VR experiences.", 
+        "creators": [
+            {"name":"Vishwanath, Gautam", "affiliation": "Aalto University, Otaniementie 14, 02150, Espoo, Finland", "orcid": "0000-0003-1522-1554"},
+            {"name":"Diaz-Kommonen, Lily", "affiliation": "Aalto University, Otaniementie 14, 02150, Espoo, Finland", "orcid": "0000-0002-6214-1795"},
+            {"name":"Svinhufvud, Leena", "affiliation": "Design Museum, Korkeavuorenkatu 23, 00130, Helsinki, Finland", "orcid": "0000-0002-8324-2704"}
+        
+        ],
+        "keywords": ["Museums", "Virtual Reality", "Cultural Heritage", "Design", "Accessibility", "Inclusivity", "Senior Citizens", "Museum", "Collection"],
+        "grants": [{"id":"870811"}, {"id":"101004746"}]
+
+
+    }
+}

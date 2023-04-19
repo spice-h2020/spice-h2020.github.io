@@ -1,0 +1,40 @@
+{
+    "metadata": {
+        
+        "upload_type": "publication",
+        "publication_type": "conferencepaper",
+        "access_right": "open",
+        "license": "cc-by",
+        "related_identifiers": [{"relation": "isPartOf", "identifier":"10.5281/zenodo.7845049"}],
+        "contributors": [
+            {"name":"Asprino, Luigi", "affiliation": "University of Bologna, Italy", "type": "Editor", "orcid": "0000-0003-1907-0677" },
+            {"name":"Gangemi, Aldo", "affiliation": "University of Bologna and National Research Council – Institute of Cognitive Science and Technologies, Italy", "type": "Editor", "orcid": "0000-0001-5568-2684" },
+            {"name":"Peroni, Silvio", "affiliation": "University of Bologna, Italy", "type": "Editor", "orcid": "0000-0003-0530-4305" }
+
+        ],
+        "conference_title": "Extended Intelligence for Cultural Engagement",
+        "conference_acronym": "ExICE",
+        "conference_dates": "15 March 2023",
+        "conference_place": "Bologna, Italy",
+        "conference_url": "https://spice-h2020.eu/conference/",
+
+
+        "title" : "SPICE Linked Data Hub - Data infrastructure and tools to support Citizen Curation",
+        "description": "SPICE is an EU H-2020 project dedicated to research on novel methods for citizen curation of cultural heritage through an ecosystem of tools co-designed by an interdisciplinary team of researchers, technologists, and museum curators and engagement experts, and user communities.  This demo paper presents the output of Work Package 4 of the SPICE project, focusing on improving the state of the art of content management and delivery strategies of museums.  Within this context, we analysed the challenges of integrating citizen experiences in cultural heritage archives. Objective of the work is developing an approach to giving citizen curation partner organisations (e.g. museums or engagement companies) meaningful control over their data, by expressing fine-grained, user-tailored policies and terms of use and by developing an approach to dealing with privacy violations in user-contributed content.  The work capitalise on the research on managing data catalogues and integration metadata in the smart cities context. Crucially, the SPICE LDH integrates data from museum collections and user-generated content from applications, leveraging a multiplicity of ontological viewpoints, using the novel SPARQL Anything system. Alongside presenting novel functionalities of the Linked Data Hub, we illustrate concrete applications within the SPICE pilot 'Deep Viewpoints', which focuses on supporting the Irish Museum of Modern Art (IMMA) in citizen curation activities.", 
+        "creators": [
+            {"name":"Carvalho, Jason", "affiliation": "The Open University, UK"},
+            {"name":"Daga, Enrico", "affiliation": "The Open University, UK"},
+            {"name":"Asprino, Luigi", "affiliation": "University of Bologna", "orcid": "0000-0003-1907-0677" },
+            {"name":"Gangemi, Aldo", "affiliation": "University of Bologna and National Research Council – Institute of Cognitive Science and Technologies", "orcid": "0000-0001-5568-2684" },
+            {"name":"Maguire, Mark", "affiliation": "Irish Museum of Modern Art (IMMA), Ireland"},
+            {"name":"Mulholland, Paul", "affiliation": "The Open University, UK"},
+            {"name":"Stoneman, Adam", "affiliation": "Irish Museum of Modern Art (IMMA), Ireland"},
+            {"name":"Uwasomba, Chukwudi", "affiliation": "The Open University, UK"},
+            
+        ],
+        "keywords": ["Linked Data","Citizen Curation","Cultural Heritage" "Data Spaces"],
+        "grants": [{"id":"870811"}]
+
+
+    }
+}
