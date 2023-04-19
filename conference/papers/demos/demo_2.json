@@ -17,6 +17,7 @@
         "conference_dates": "15 March 2023",
         "conference_place": "Bologna, Italy",
         "conference_url": "https://spice-h2020.eu/conference/",
+        "communities": [{"identifier":"exice"}],
 
 
         "title" : "Co-design of treasure hunts for a Natural History Museum",
