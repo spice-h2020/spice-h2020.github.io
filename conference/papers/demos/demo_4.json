@@ -30,10 +30,10 @@
             {"name":"Maguire, Mark", "affiliation": "Irish Museum of Modern Art (IMMA), Ireland"},
             {"name":"Mulholland, Paul", "affiliation": "The Open University, UK"},
             {"name":"Stoneman, Adam", "affiliation": "Irish Museum of Modern Art (IMMA), Ireland"},
-            {"name":"Uwasomba, Chukwudi", "affiliation": "The Open University, UK"},
+            {"name":"Uwasomba, Chukwudi", "affiliation": "The Open University, UK"}
             
         ],
-        "keywords": ["Linked Data","Citizen Curation","Cultural Heritage" "Data Spaces"],
+        "keywords": ["Linked Data","Citizen Curation","Cultural Heritage", "Data Spaces"],
         "grants": [{"id":"870811"}]
 
 

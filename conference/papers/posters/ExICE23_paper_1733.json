@@ -17,9 +17,9 @@
         "title" : "A proposal for a user-friendly, integrative and collaborative platform for the Digital Humanities",
         "description": "Data extraction, retrieval and visualization are some of the key points in Digital Humanities, and together they cover most of the challenges of this field of study, requiring multidisciplinary knowledge. The fruition by users is still today compromised by limited user experiences, problems of integrating data from multiple sources and automatic extraction systems that are not free from errors. The proposal in this document is an approach that, using a simplified graph-based graphical interface, allows the exploration of the contents from multiple data sources and offers a basis for correcting and validating these through social collaboration.", 
         "creators": [
-            {"name":"Bernasconi, Eleonora", "affiliation": "Universita` degli Studi di Bari Aldo Moro, Department of Computer Science Via Edoardo Orabona, 4, 70125 Bari, Italy", "orcid": "0000−0003−3142−3084"},
-            {"name":"Mecella, Massimo", "affiliation": "Sapienza Universita` di Roma, Department of Computer, Control, and Management Engineering Antonio Ruberti (DIAG), via Ariosto, 25, 00185 Rome, Italy", "orcid": "0000−0002−9730−8882" },
-            {"name":"Morvillo, Alberto", "affiliation": "Sapienza Universita` di Roma, Department of Computer, Control, and Management Engineering Antonio Ruberti (DIAG), via Ariosto, 25, 00185 Rome, Italy", "orcid": "0000−0001−5154−6095" }
+            {"name":"Bernasconi, Eleonora", "affiliation": "Universita` degli Studi di Bari Aldo Moro, Department of Computer Science Via Edoardo Orabona, 4, 70125 Bari, Italy", "orcid": "0000-0003-3142-3084"},
+            {"name":"Mecella, Massimo", "affiliation": "Sapienza Universita` di Roma, Department of Computer, Control, and Management Engineering Antonio Ruberti (DIAG), via Ariosto, 25, 00185 Rome, Italy", "orcid": "0000-0002-9730-8882" },
+            {"name":"Morvillo, Alberto", "affiliation": "Sapienza Universita` di Roma, Department of Computer, Control, and Management Engineering Antonio Ruberti (DIAG), via Ariosto, 25, 00185 Rome, Italy", "orcid": "0000-0001-5154-6095" }
             
         ],
         "keywords": ["Digital library", "Cultural heritage", "Knowledge graphs", "Knowledge discovery"]

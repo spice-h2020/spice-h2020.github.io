@@ -17,13 +17,13 @@
         "title" : "Multivocal Exhibition: a user-centric application to explore symbolic interpretations of artefacts from different cultural perspectives",
         "description": "Linked open data (LOD) is used extensively in the cultural heritage (CH) field by providing an unprecedented level of access to information, and enabling the development of applications used to explore and identify the relationships between artefacts, places, and people, as well as to trace their origins by integrating data from different sources. In this paper, we present Multivocal Exhibition, a LOD-based application that lets users explore how one concept is symbolically expressed by different cultural contexts through a 3D exhibition of artefacts.", 
         "creators": [
-            {"name":"Sartini, Bruno", "affiliation": "University of Bologna, Italy", "orcid": "0000−0002−9152−4402"},
-            {"name":"Nesterov, Andrei", "affiliation": "Centrum Wiskunde & Informatica, Amsterdam, The Netherlands", "orcid": "0000−0001−9697−101X"},
-            {"name":"Libbi, Claudia", "affiliation": "Vrije Universiteit Amsterdam, De Boelelaan 1105, Amsterdam, The Netherlands and Leiden University, Leiden, The Netherlands", "orcid": "0000−0003−3758−4145"},
+            {"name":"Sartini, Bruno", "affiliation": "University of Bologna, Italy", "orcid": "0000-0002-9152-4402"},
+            {"name":"Nesterov, Andrei", "affiliation": "Centrum Wiskunde & Informatica, Amsterdam, The Netherlands", "orcid": "0000-0001-9697-101X"},
+            {"name":"Libbi, Claudia", "affiliation": "Vrije Universiteit Amsterdam, De Boelelaan 1105, Amsterdam, The Netherlands and Leiden University, Leiden, The Netherlands", "orcid": "0000-0003-3758-4145"},
             {"name":"Brate, Ryan", "affiliation": "KNAW Humanities Cluster, Digital Humanities Lab, Amsterdam, The Netherlands"},
-            {"name":"Alam Shoilee, Sarah Binta", "affiliation": "Vrije Universiteit Amsterdam, De Boelelaan 1105, Amsterdam, The Netherlands", "orcid":"0000−0001−9458−8105"},
+            {"name":"Alam Shoilee, Sarah Binta", "affiliation": "Vrije Universiteit Amsterdam, De Boelelaan 1105, Amsterdam, The Netherlands", "orcid":"0000-0001-9458-8105"},
             {"name":"Alam Shoilee, Sarah Binta", "affiliation": "Vrije Universiteit Amsterdam, De Boelelaan 1105, Amsterdam, The Netherlands"},
-            {"name":"Daniil, Savvina", "affiliation": "Centrum Wiskunde & Informatica, Amsterdam, The Netherlands", "orcid": "0000−0001−8888−2869"},
+            {"name":"Daniil, Savvina", "affiliation": "Centrum Wiskunde & Informatica, Amsterdam, The Netherlands", "orcid": "0000-0001-8888-2869"}
             
         ],
         "keywords": ["Linked Open Data","Symbolism", "Virtual Reality","Cultural Heritage"]

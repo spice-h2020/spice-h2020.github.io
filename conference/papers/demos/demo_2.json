@@ -23,10 +23,10 @@
         "title" : "Co-design of treasure hunts for a Natural History Museum",
         "description": "This paper describes 3 iterations of co-design of educational treasure hunts for a natural history museum in Spain. Game designers have collaborated with primary and secondary school teachers, and mu- seum educators to find good solutions to the problems we faced in the design of a visit to the museum that serves to draw children’s attention to the problems of biodiversity loss, and to understand the impact that our consumption habits have on nature.", 
         "creators": [
-            {"name":"Gutiérrez-Sánchez, Pablo", "affiliation": "PadaOne Games, Spain", "orcid": "0000−0002−6702−5726"},
-            {"name":"Camps-Ortueta, Irene", "affiliation": "PadaOne Games, Spain", "orcid": "0000−0002−2635−9041"},
-            {"name":"Gómez-Martín, Pedro P.", "affiliation": "PadaOne Games, Spain", "orcid": "0000−0002−3855−7344"},
-            {"name":"González-Calero, Pedro A.", "affiliation": "PadaOne Games, Spain", "orcid": "0000−0002−9151−5573"},
+            {"name":"Gutiérrez-Sánchez, Pablo", "affiliation": "PadaOne Games, Spain", "orcid": "0000-0002-6702-5726"},
+            {"name":"Camps-Ortueta, Irene", "affiliation": "PadaOne Games, Spain", "orcid": "0000-0002-2635-9041"},
+            {"name":"Gómez-Martín, Pedro P.", "affiliation": "PadaOne Games, Spain", "orcid": "0000-0002-3855-7344"},
+            {"name":"González-Calero, Pedro A.", "affiliation": "PadaOne Games, Spain", "orcid": "0000-0002-9151-5573"}
         ],
         "keywords": ["Serious games","Game design","Educational escape room"],
         "grants": [{"id":"870811"}]

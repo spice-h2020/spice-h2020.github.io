@@ -19,7 +19,7 @@
         "creators": [
             {"name":"Fabbri, Francesca", "affiliation": "University of Bologna, Ravenna RA 48121, Italy"},
             {"name":"Collina, Federica", "affiliation": "University of Bologna, Ravenna RA 48121, Italy", "orcid": "0000-0002-5759-8109"},
-            {"name":"Barzaghi, Sebastian", "affiliation": "University of Bologna, Ravenna RA 48121, Italy", "orcid": "0000-0002-0799-1527"},
+            {"name":"Barzaghi, Sebastian", "affiliation": "University of Bologna, Ravenna RA 48121, Italy", "orcid": "0000-0002-0799-1527"}
             
         ],
         "keywords": ["Artificial Intelligence", "Machine learning", "Chatbots", "Museum"]
