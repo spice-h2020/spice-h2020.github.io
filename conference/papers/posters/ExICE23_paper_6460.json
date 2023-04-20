@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        
+        "upload_type": "publication",
+        "publication_type": "conferencepaper",
+        "access_right": "open",
+        "license": "cc-by",
+        "related_identifiers": [{"relation": "isPartOf", "identifier":"10.5281/zenodo.7845049"}],
+        "contributors": [{"name":"Asprino, Luigi", "affiliation": "University of Bologna, Italy", "type": "Editor", "orcid": "0000-0003-1907-0677" },{"name":"Gangemi, Aldo", "affiliation": "University of Bologna and National Research Council – Institute of Cognitive Science and Technologies, Italy", "type": "Editor", "orcid": "0000-0001-5568-2684" },{"name":"Peroni, Silvio", "affiliation": "University of Bologna, Italy", "type": "Editor", "orcid": "0000-0003-0530-4305" }],
+        "conference_title": "Extended Intelligence for Cultural Engagement",
+        "conference_acronym": "ExICE",
+        "conference_dates": "15 March 2023",
+        "conference_place": "Bologna, Italy",
+        "communities": [{"identifier":"exice"}],
+        "conference_url": "https://spice-h2020.eu/conference/",
+
+        "title" : "Digitising Intangible Cultural Heritage: The use case of Antigone",
+        "description": "VAST tools and methodology support activities and experiences both inside and outside a museum. In this way, a wider range of audiences that are not the common ‘museum goers’ is considered. In this paper, a museum exhibit and an educational activity of the tragedy of Antigone are presented to demonstrate how the ideas above are put into practice. Both experiences have been designed by the House of Classical Greek Ideas (HoCGI), an innovative exhibition on ancient Greek Philosophy. Philosophical questions, problems, values and ideas are part of the interactive CH and, under a philosophical perspective, retain a timeless and everlasting mind-intriguing aspect. However, they are particularly hard to demonstrate and exhibit as they are both abstract and complex. The HoCGI aims, through technology, to create interactive exhibits that engage visitors in philosophical thinking, answering dilemmas and challenging questions. For example, the concept of justice is crucial in our everyday decision-making, and influences how we perceive and evaluate the political context and our social relationships. This is exactly what is at stake in the ancient Greek tragedy of Antigone.", 
+        "creators": [
+            {"name":"Arnellou, Lida", "affiliation": "Institute of Informatics and Telecommunications, National Centre for Scientific Research (N.C.S.R.) “Demokritos” GR-153 10, P.O.BOX 60228, Aghia Paraskevi, Athens, Greece"},
+            {"name":"Dagioglou, Maria", "affiliation": "Institute of Informatics and Telecommunications, National Centre for Scientific Research (N.C.S.R.) “Demokritos” GR-153 10, P.O.BOX 60228, Aghia Paraskevi, Athens, Greece"},
+            {"name":"Katsamori, Dora", "affiliation": "Institute of Informatics and Telecommunications, National Centre for Scientific Research (N.C.S.R.) “Demokritos” GR-153 10, P.O.BOX 60228, Aghia Paraskevi, Athens, Greece"},
+            {"name":"Petakos, Dimitris", "affiliation": "Institute of Informatics and Telecommunications, National Centre for Scientific Research (N.C.S.R.) “Demokritos” GR-153 10, P.O.BOX 60228, Aghia Paraskevi, Athens, Greece"},
+            {"name":"Gradou, Anna", "affiliation": "Institute of Informatics and Telecommunications, National Centre for Scientific Research (N.C.S.R.) “Demokritos” GR-153 10, P.O.BOX 60228, Aghia Paraskevi, Athens, Greece"},
+            {"name":"Petasis, Georgios", "affiliation": "Institute of Informatics and Telecommunications, National Centre for Scientific Research (N.C.S.R.) “Demokritos” GR-153 10, P.O.BOX 60228, Aghia Paraskevi, Athens, Greece"},
+        ]
+
+
+    }
+}

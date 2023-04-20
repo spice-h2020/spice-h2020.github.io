@@ -1,0 +1,33 @@
+{
+    "metadata": {
+        
+        "upload_type": "publication",
+        "publication_type": "conferencepaper",
+        "access_right": "open",
+        "license": "cc-by",
+        "related_identifiers": [{"relation": "isPartOf", "identifier":"10.5281/zenodo.7845049"}],
+        "contributors": [{"name":"Asprino, Luigi", "affiliation": "University of Bologna, Italy", "type": "Editor", "orcid": "0000-0003-1907-0677" },{"name":"Gangemi, Aldo", "affiliation": "University of Bologna and National Research Council – Institute of Cognitive Science and Technologies, Italy", "type": "Editor", "orcid": "0000-0001-5568-2684" },{"name":"Peroni, Silvio", "affiliation": "University of Bologna, Italy", "type": "Editor", "orcid": "0000-0003-0530-4305" }],
+        "conference_title": "Extended Intelligence for Cultural Engagement",
+        "conference_acronym": "ExICE",
+        "conference_dates": "15 March 2023",
+        "conference_place": "Bologna, Italy",
+        "communities": [{"identifier":"exice"}],
+        "conference_url": "https://spice-h2020.eu/conference/",
+
+        "title" : "The ReInHerit Toolkit: Artificial Intelligence and a people-centered approach for cultural engagement",
+        "description": "In this work we present the toolkit developed in the context of the ReInHerit project. The goal of the project is to improve the communication, collaboration and innovation exchange between museums and cultural heritage sites. The toolkit is a set of innovative applications, instructions and webinars that provide guidelines and prototypes for developing new engaging experiences in the cultural domain. Digital innovation, computer vision and artificial intelligence for cultural engagement have been identified as emergent needs to research and address; the toolkit is part of the ReInHerit Digital Hub, designed as the interactive and dynamic space that collects and shares all the resources of the project (webinars, tools, and documentations) for cultural heritage professionals. New technologies and particularly AI/CV tools have the potential to create a stronger relationship between artworks and visitors in the new form of the “phygital museum”, rethinking museums in a diversity of spaces, tools and contexts with a plurality of people and modes of interaction. Thus the toolkit focuses on visitor interactions in order to meet diverse needs and achieve greater visitor satisfaction.", 
+        "creators": [
+            {"name":"Mazzanti, Paolo", "affiliation": "Università degli Studi di Firenze - MICC"},
+            {"name":"Bertini, Marco", "affiliation": "Università degli Studi di Firenze - MICC"},
+            {"name":"Baldrati, Alberto", "affiliation": "Università degli Studi di Firenze - MICC and Università degli Studi di Pisa"},
+            {"name":"Agnolucci, Lorenzo", "affiliation": "Università degli Studi di Firenze - MICC"},
+            {"name":"Ferracani, Andrea", "affiliation": "Università degli Studi di Firenze - MICC"},
+            {"name":"Principi, Filippo", "affiliation": "Università degli Studi di Firenze - MICC"},
+            {"name":"Bongini, Pietro", "affiliation": "Università degli Studi di Firenze - MICC"},
+            
+        ],
+        "grants": [{"id":"101004545"}]
+
+
+    }
+}

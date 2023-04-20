@@ -1,0 +1,31 @@
+{
+    "metadata": {
+        
+        "upload_type": "publication",
+        "publication_type": "conferencepaper",
+        "access_right": "open",
+        "license": "cc-by",
+        "related_identifiers": [{"relation": "isPartOf", "identifier":"10.5281/zenodo.7845049"}],
+        "contributors": [{"name":"Asprino, Luigi", "affiliation": "University of Bologna, Italy", "type": "Editor", "orcid": "0000-0003-1907-0677" },{"name":"Gangemi, Aldo", "affiliation": "University of Bologna and National Research Council – Institute of Cognitive Science and Technologies, Italy", "type": "Editor", "orcid": "0000-0001-5568-2684" },{"name":"Peroni, Silvio", "affiliation": "University of Bologna, Italy", "type": "Editor", "orcid": "0000-0003-0530-4305" }],
+        "conference_title": "Extended Intelligence for Cultural Engagement",
+        "conference_acronym": "ExICE",
+        "conference_dates": "15 March 2023",
+        "conference_place": "Bologna, Italy",
+        "communities": [{"identifier":"exice"}],
+        "conference_url": "https://spice-h2020.eu/conference/",
+
+        "title" : "Argumentation based dialogue for Cultural Heritage presentations with Virtual Humans",
+        "description": "In this work, we describe a framework for the development of Argumentative Conversational Recommender Systems for Cultural Heritage. Specifically, we describe our research about the management of Virtual Humans in museum-like 3D environments. We describe the resulting technological framework, the development methodology linked to it, and we summarise the results that we obtained with it. Also, we present the innovations that are currently being introduced to support more complex interactions for the task of artworks recommendation using a combination of different AI techniques for dialogue management.", 
+        "creators": [
+            {"name":"Origlia, Antonio", "affiliation": "DIETI - University of Naples Federico II and URBAN/ECO Research Center"},
+            {"name":"Di Bratto, Martina", "affiliation": "URBAN/ECO Research Center and Logogramma S.r.l"},
+            {"name":"Di Maro, Maria", "affiliation": "DIETI - University of Naples Federico II and URBAN/ECO Research Center"},
+            {"name":"Mennella, Sabrina", "affiliation": "URBAN/ECO Research Center and Dept. of Humanties - University of Catania and Logogramma S.r.l"},
+            {"name":"Cutugno, Francesco", "affiliation": "DIETI - University of Naples Federico II and URBAN/ECO Research Center"}
+            
+        ],
+        "keywords": ["Virtual Humans","Graph databases","Conversational AI"]
+
+
+    }
+}

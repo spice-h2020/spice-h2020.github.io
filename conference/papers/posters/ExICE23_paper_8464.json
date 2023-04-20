@@ -1,0 +1,30 @@
+{
+    "metadata": {
+        
+        "upload_type": "publication",
+        "publication_type": "conferencepaper",
+        "access_right": "open",
+        "license": "cc-by",
+        "related_identifiers": [{"relation": "isPartOf", "identifier":"10.5281/zenodo.7845049"}],
+        "contributors": [{"name":"Asprino, Luigi", "affiliation": "University of Bologna, Italy", "type": "Editor", "orcid": "0000-0003-1907-0677" },{"name":"Gangemi, Aldo", "affiliation": "University of Bologna and National Research Council – Institute of Cognitive Science and Technologies, Italy", "type": "Editor", "orcid": "0000-0001-5568-2684" },{"name":"Peroni, Silvio", "affiliation": "University of Bologna, Italy", "type": "Editor", "orcid": "0000-0003-0530-4305" }],
+        "conference_title": "Extended Intelligence for Cultural Engagement",
+        "conference_acronym": "ExICE",
+        "conference_dates": "15 March 2023",
+        "conference_place": "Bologna, Italy",
+        "communities": [{"identifier":"exice"}],
+        "conference_url": "https://spice-h2020.eu/conference/",
+
+        "title" : "We have other paintings as well! Recommending non-popular cultural heritage in museum visits",
+        "description": "When visiting The Louvre Museum, many visitors experience a sense of disappointment when they reach the most famous piece of cultural heritage in the world: the size of the Mona Lisa does not reflect its importance, and the large crowd that amasses in front of the painting makes it hard to appreciate it fully. However, most visitors will still insist on seeing this particular piece of art despite the presence of several thousand other artworks in the same museum, many of which arguably deserve more attention than what they get. Humans naturally tend to select more popular items when given a choice . This phenomenon, sometimes referred to as Popularity Bias, may be one motivation for the overcrowdedness of the Mona Lisa’s room , and explains why it is sometimes hard to promote visits to less familiar cultural artifacts . In this position paper, we suggest that it should be possible, given both the advancement in recommender systems and the trend of digitization of cultural heritage and its connected metadata, to leverage recommender systems within the context of museum visits, with the double goal of allowing visitors to plan an engaging trip inside the museum personalized to their personal taste, and allowing museum curators to give more relevance to lesser-known artifacts in their collections. Such a system, by accessing digitized information about the available artifacts, could help the users before the visit, by helping them plan a trip by selecting the items they will visit, and by leveraging implicit and explicit feedback from the users it can help personalize multimedia guides during the visit. After the visit, further feedback can be collected for the improvement of future recommendations, possibly considering additional contextual and social information relevant to the visitors’ engagement . While there exists previous research on Recommender Systems for cultural heritage, to the best of our knowledge one fundamental problem of these systems has not been considered in this context. Recommender systems can learn Popularity Bias from their human users and amplify this bias by recommending popular items . While this may seem to undermine our previous claim, a lot of recent literature has focused on the mitigation of Popularity bias and on the general increase of Fairness in recommender systems . By leveraging state-of-the-art techniques for these goals, we argue that not only it is possible to expose less popular cultural heritage to more visitors without losing their engagement, but it is also possible to give more fair visibility to artists that have been neglected in the past, possibly for reasons not directly connected to the quality of their works .", 
+        "creators": [
+            {"name":"Carnovalini, Filippo", "affiliation": "Centro di Sonologia Computazionale, University of Padova, Padova, Italy", "orcid": "0000−0002−2996−9486"},
+            {"name":"Rodà, Antonio", "affiliation": "Centro di Sonologia Computazionale, University of Padova, Padova, Italy", "orcid": "0000−0001−9921−0590"},
+            {"name":"Pretto, Niccolò", "affiliation": "Free University of Bozen-Bolzano, Bolzano, Italy", "orcid": "0000−0002−3742−7150"},
+            {"name":"Canazza, Sergio", "affiliation": "Centro di Sonologia Computazionale, University of Padova, Padova, Italy", "orcid": "0000−0001−7083−4615"},
+            
+        ],
+        "keywords": ["Recommender Systems","Cultural Heritage","Information Retrieval","Fairness in AI"]
+
+
+    }
+}
