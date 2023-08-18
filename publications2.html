@@ -18,6 +18,14 @@ layout: default
                   </div>
               </div>
               <div class="col-12">
+                <h2 class="contact-title">2023</h2>
+                {% for pub in site.publications %}
+                {%if pub.year == 2023 %}
+                <p>{{ pub.content | markdownify }}</p></br>
+                {% endif %}
+                {%endfor %}
+            </div>
+              <div class="col-12">
                 <h2 class="contact-title">2022</h2>
                 {% for pub in site.publications %}
                 {%if pub.year == 2022 %}
